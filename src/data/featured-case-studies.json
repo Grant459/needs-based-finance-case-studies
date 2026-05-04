@@ -1,0 +1,32 @@
+[
+  {
+    "label": "Needs-Based Finance Case Study",
+    "title": "Regional Climate Finance Needs Assessment",
+    "summary": "A placeholder example showing how climate finance needs can be organized into clear priorities, evidence gaps, and implementation pathways.",
+    "slug": "regional-climate-finance-needs-assessment",
+    "region": "Regional",
+    "category": "Needs Assessment",
+    "image": "assets/climate-needs-assessment.svg",
+    "imageAlt": "Abstract climate finance assessment chart placeholder"
+  },
+  {
+    "label": "Needs-Based Finance Case Study",
+    "title": "Translating Climate Finance Needs into Investment-Ready Concepts",
+    "summary": "A sample case-study card for validating the local layout before separately provided approved needs-based finance content is added.",
+    "slug": "climate-finance-needs-to-investment-concepts",
+    "region": "Multi-country",
+    "category": "Project Concept Development",
+    "image": "assets/investment-concepts.svg",
+    "imageAlt": "Abstract investment concept dashboard placeholder"
+  },
+  {
+    "label": "Needs-Based Finance Case Study",
+    "title": "Strengthening Access to Climate Finance for SIDS and LDCs",
+    "summary": "Placeholder content demonstrating how access, readiness, and institutional coordination case studies appear across responsive breakpoints.",
+    "slug": "strengthening-climate-finance-access-sids-ldcs",
+    "region": "SIDS and LDCs",
+    "category": "Climate Finance Access",
+    "image": "assets/finance-access.svg",
+    "imageAlt": "Abstract climate finance access map placeholder"
+  }
+]

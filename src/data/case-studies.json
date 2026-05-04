@@ -1,0 +1,181 @@
+[
+  {
+    "label": "Needs-Based Finance Case Study",
+    "title": "Regional Climate Finance Needs Assessment",
+    "subtitle": "A placeholder case study about identifying climate finance needs, organizing evidence, and translating regional priorities into a practical planning baseline.",
+    "summary": "A placeholder example showing how climate finance needs can be organized into clear priorities, evidence gaps, and implementation pathways.",
+    "slug": "regional-climate-finance-needs-assessment",
+    "region": "Regional",
+    "category": "Needs Assessment",
+    "calloutText": "Needs-based finance starts with a clear view of priorities, gaps, and decision-ready evidence.",
+    "relatedCaseStudies": [
+      "climate-finance-needs-to-investment-concepts",
+      "strengthening-climate-finance-access-sids-ldcs"
+    ],
+    "image": "assets/climate-needs-assessment.svg",
+    "imageAlt": "Abstract climate finance assessment chart placeholder",
+    "sections": [
+      {
+        "heading": "Context",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "This placeholder case study represents a regional process for organizing climate finance needs across sectors, institutions, and time horizons."
+          },
+          {
+            "type": "paragraph",
+            "text": "Replace this sample copy with approved needs-based finance content when separately provided material is available."
+          }
+        ]
+      },
+      {
+        "heading": "Assessment Approach",
+        "kicker": "Evidence first",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The sample engagement focuses on mapping climate priorities, documenting finance gaps, and creating a shared evidence base for concept development."
+          },
+          {
+            "type": "list",
+            "items": [
+              "Compiled sector priorities and adaptation or mitigation needs.",
+              "Identified finance gaps, readiness constraints, and delivery risks.",
+              "Organized findings into a practical needs assessment structure."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Planning Outputs",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The placeholder output section shows how longer article content, lists, and generated section anchors appear in the detail page."
+          },
+          {
+            "type": "divider"
+          },
+          {
+            "type": "subheading",
+            "text": "Reusable planning baseline"
+          },
+          {
+            "type": "paragraph",
+            "text": "The process produces a neutral baseline that can support country dialogue, donor coordination, and future investment concept design."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Needs-Based Finance Case Study",
+    "title": "Translating Climate Finance Needs into Investment-Ready Concepts",
+    "subtitle": "A sample story for testing a case-study page about turning needs assessment findings into structured, investment-ready concept notes.",
+    "summary": "A sample case-study card for validating the local layout before separately provided approved needs-based finance content is added.",
+    "slug": "climate-finance-needs-to-investment-concepts",
+    "region": "Multi-country",
+    "category": "Project Concept Development",
+    "calloutText": "The bridge from need to finance is a clear concept, a plausible delivery model, and an evidence-backed rationale.",
+    "relatedCaseStudies": [
+      "regional-climate-finance-needs-assessment",
+      "strengthening-climate-finance-access-sids-ldcs"
+    ],
+    "image": "assets/investment-concepts.svg",
+    "imageAlt": "Abstract investment concept dashboard placeholder",
+    "sections": [
+      {
+        "heading": "Starting Point",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The placeholder scenario begins with a portfolio of climate finance needs that require prioritization, sequencing, and translation into potential fundable concepts."
+          }
+        ]
+      },
+      {
+        "heading": "Concept Development",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The sample workflow defines concept objectives, target beneficiaries, delivery partners, cost categories, and early risk considerations."
+          },
+          {
+            "type": "list",
+            "items": [
+              "Prioritized needs according to urgency, readiness, and potential climate impact.",
+              "Mapped each concept to possible funding windows and implementation partners.",
+              "Prepared a concise concept structure for review and refinement."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Resulting Materials",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "This placeholder result section can be replaced with approved case-study outcomes, including investment concept summaries or readiness outputs."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Needs-Based Finance Case Study",
+    "title": "Strengthening Access to Climate Finance for SIDS and LDCs",
+    "subtitle": "A local placeholder detail page demonstrating flexible content sections for access, readiness, and institutional coordination work.",
+    "summary": "Placeholder content demonstrating how access, readiness, and institutional coordination case studies appear across responsive breakpoints.",
+    "slug": "strengthening-climate-finance-access-sids-ldcs",
+    "region": "SIDS and LDCs",
+    "category": "Climate Finance Access",
+    "calloutText": "Access support is most useful when it connects finance needs to institutional capacity, readiness actions, and realistic submission pathways.",
+    "relatedCaseStudies": [
+      "regional-climate-finance-needs-assessment",
+      "climate-finance-needs-to-investment-concepts"
+    ],
+    "image": "assets/finance-access.svg",
+    "imageAlt": "Abstract climate finance access map placeholder",
+    "sections": [
+      {
+        "heading": "Challenge",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Small island developing states and least developed countries often face capacity, coordination, and transaction-cost barriers when moving from identified needs to accessible finance."
+          }
+        ]
+      },
+      {
+        "heading": "Support Model",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The placeholder support model combines readiness diagnostics, stakeholder coordination, and a practical view of funding routes."
+          },
+          {
+            "type": "subheading",
+            "text": "From access barriers to action"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Mapped institutional roles and coordination gaps.",
+              "Identified readiness actions required before proposal development.",
+              "Sequenced access steps around available capacity and finance priorities."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Next Stage",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The placeholder next-stage section shows where approved content can describe strengthened access pathways, clearer roles, and more focused climate finance engagement."
+          }
+        ]
+      }
+    ]
+  }
+]

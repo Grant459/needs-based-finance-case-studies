@@ -1,0 +1,37 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Featured Case Studies",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["label", "title", "summary", "slug", "region", "category"],
+    "properties": {
+      "label": {
+        "type": "string",
+        "examples": ["Case Study"]
+      },
+      "title": {
+        "type": "string"
+      },
+      "summary": {
+        "type": "string"
+      },
+      "slug": {
+        "type": "string",
+        "description": "Must match a slug in case-studies.json."
+      },
+      "region": {
+        "type": "string"
+      },
+      "category": {
+        "type": "string"
+      },
+      "image": {
+        "type": "string"
+      },
+      "imageAlt": {
+        "type": "string"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "label": "Needs-Based Finance Case Study",
+    "title": "Sample Featured Case Study",
+    "summary": "Placeholder summary used only to demonstrate the data shape before approved content is supplied.",
+    "slug": "sample-featured-case-study",
+    "region": "Sample region",
+    "category": "Sample category",
+    "image": "assets/climate-needs-assessment.svg",
+    "imageAlt": "Placeholder image description"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "caseStudiesIndex": {
+    "eyebrow": "Case Studies",
+    "title": "Needs-Based Finance Case Studies",
+    "intro": "Explore representative examples of how climate finance needs can be assessed, prioritized, and translated into practical pathways for action.",
+    "featuredEyebrow": "Featured Case Studies",
+    "featuredTitle": "Selected needs-based finance examples",
+    "maxVisibleCaseStudies": 50,
+    "limitNote": "Showing 50 case studies."
+  }
+}

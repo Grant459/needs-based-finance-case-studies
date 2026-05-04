@@ -23,11 +23,15 @@ The app uses `HashRouter` so GitHub Pages can serve subpages without server rewr
 - `#/case-studies/strengthening-climate-finance-access-sids-ldcs`
 - `#/case-studies/:slug` for additional local entries
 
-Unrelated header and footer destinations are visible as placeholder `#` links so this standalone build stays scoped to the case-study area.
+The header keeps only one top navigation link: `Case Studies`.
 
 ## Content Replacement
 
 Featured Case Studies are loaded from `src/data/featured-case-studies.json`. Replace the placeholder entries there with separately provided approved content. The `slug` for each featured entry should match a corresponding case study in `src/data/case-studies.json`.
+
+The case-study index page renders up to 50 entries from `src/data/featured-case-studies.json`. Edit `maxVisibleCaseStudies` in `src/data/site-copy.json` if that display limit needs to change.
+
+Main index page copy is centralized in `src/data/site-copy.json`.
 
 Case-study detail pages are generated from `src/data/case-studies.json`. Each case study supports:
 
@@ -63,7 +67,10 @@ Local placeholder SVGs live in `public/assets` and `src/assets`. Replace them wi
 - Project name is `needs-based-finance-case-studies`.
 - Public-facing site title is `Needs-Based Finance`.
 - Case-study section is titled `Needs-Based Finance Case Studies`.
+- Header navigation contains only `Case Studies`.
+- Footer contact contains only `NBFProject@unfccc.int`.
 - Featured Case Studies render from `src/data/featured-case-studies.json`.
+- Case-study index supports up to 50 visible cards.
 - Detail pages render from `src/data/case-studies.json`.
 - GitHub Pages workflow exists at `.github/workflows/deploy-pages.yml`.
 - Vite outputs to `dist`.

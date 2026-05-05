@@ -3,8 +3,12 @@
     "eyebrow": "Case Studies",
     "title": "Needs-Based Finance Case Studies",
     "intro": "Explore representative examples of how climate finance needs can be assessed, prioritized, and translated into practical pathways for action.",
-    "featuredEyebrow": "Featured Case Studies",
-    "featuredTitle": "Selected needs-based finance examples",
+    "currentSupportEyebrow": "Featured Case Studies",
+    "currentSupportTitle": "Selected needs-based finance examples currently under UNFCCC support",
+    "currentSupportIntro": "These examples are currently being supported through the UNFCCC needs-based finance work and are open for engagement by funders, climate funds, accredited entities, delivery partners and other relevant institutions.",
+    "formerSupportEyebrow": "Additional Case Studies",
+    "formerSupportTitle": "Additional needs-based finance examples open for support",
+    "formerSupportIntro": "These examples were previously supported through UNFCCC needs-based finance work. They are no longer under active UNFCCC support but remain open for engagement by funders, partners and relevant institutions where country ownership and partner interest continue.",
     "maxVisibleCaseStudies": 50,
     "limitNote": "Showing 50 case studies."
   }

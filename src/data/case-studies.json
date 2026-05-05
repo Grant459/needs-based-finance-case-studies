@@ -102,7 +102,8 @@
           }
         ]
       }
-    ]
+    ],
+    "supportStatus": "current-unfccc-support"
   },
   {
     "label": "Case Study",
@@ -206,7 +207,8 @@
           }
         ]
       }
-    ]
+    ],
+    "supportStatus": "current-unfccc-support"
   },
   {
     "label": "Case Study",
@@ -311,7 +313,8 @@
           }
         ]
       }
-    ]
+    ],
+    "supportStatus": "current-unfccc-support"
   },
   {
     "label": "Case Study",
@@ -416,7 +419,8 @@
           }
         ]
       }
-    ]
+    ],
+    "supportStatus": "current-unfccc-support"
   },
   {
     "label": "Case Study",
@@ -521,7 +525,8 @@
           }
         ]
       }
-    ]
+    ],
+    "supportStatus": "current-unfccc-support"
   },
   {
     "label": "Case Study",
@@ -626,7 +631,8 @@
           }
         ]
       }
-    ]
+    ],
+    "supportStatus": "current-unfccc-support"
   },
   {
     "label": "Case Study",
@@ -690,7 +696,7 @@
             "items": [
               "E-mobility infrastructure deployment, including siting analysis, procurement, installation, interoperability, grid integration and operations and maintenance frameworks.",
               "Enabling policy, standards and regulation, including policy audits, national EV strategies, charging standards, tariff adjustments, public procurement guidance and regional harmonization.",
-              "Incentives and finance mechanisms, including duty waivers, EV purchase subsidies, credit guarantees, leasing products, public fleet financing and performance-based grants.",
+              "Incentives and finance mechanisms, including duty waivers, EV purchase subsidies, risk-sharing instruments, leasing products, public fleet financing and performance-based grants.",
               "Capacity building and technical assistance for government, utilities, regulators, EV technicians and service providers.",
               "Public awareness, demonstration projects and MRV systems to track EV registrations, charger use, grid impacts, emissions reductions and financial flows."
             ]
@@ -731,7 +737,8 @@
           }
         ]
       }
-    ]
+    ],
+    "supportStatus": "current-unfccc-support"
   },
   {
     "label": "Case Study",
@@ -835,7 +842,8 @@
           }
         ]
       }
-    ]
+    ],
+    "supportStatus": "current-unfccc-support"
   },
   {
     "label": "Case Study",
@@ -940,7 +948,8 @@
           }
         ]
       }
-    ]
+    ],
+    "supportStatus": "current-unfccc-support"
   },
   {
     "label": "Case Study",
@@ -1044,6 +1053,7 @@
           }
         ]
       }
-    ]
+    ],
+    "supportStatus": "current-unfccc-support"
   }
 ]

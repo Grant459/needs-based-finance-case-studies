@@ -21,6 +21,8 @@ export type CaseStudySection = {
   blocks: ArticleBlock[];
 };
 
+export type SupportStatus = "current-unfccc-support" | "former-unfccc-support-open";
+
 export type CaseStudy = {
   label: string;
   title: string;
@@ -29,6 +31,7 @@ export type CaseStudy = {
   slug: string;
   region: string;
   category: string;
+  supportStatus?: SupportStatus;
   calloutText?: string;
   relatedCaseStudies: string[];
   image?: string;
@@ -38,5 +41,5 @@ export type CaseStudy = {
 
 export type FeaturedCaseStudy = Pick<
   CaseStudy,
-  "label" | "title" | "summary" | "slug" | "region" | "category" | "image" | "imageAlt"
+  "label" | "title" | "summary" | "slug" | "region" | "category" | "supportStatus" | "image" | "imageAlt"
 >;

@@ -7,7 +7,8 @@
     "region": "Maldives / Indian Ocean SIDS",
     "category": "Climate-resilient education infrastructure",
     "image": "/images/case-studies/maldives-safe-havens-schools.svg",
-    "imageAlt": "Climate-resilient school in the Maldives with solar panels, water storage, palm trees and a surrounding island community."
+    "imageAlt": "Climate-resilient school in the Maldives with solar panels, water storage, palm trees and a surrounding island community.",
+    "supportStatus": "current-unfccc-support"
   },
   {
     "label": "Case Study",
@@ -17,7 +18,8 @@
     "region": "Eastern Caribbean / OECS",
     "category": "Coastal resilience and nature-based solutions",
     "image": "/images/case-studies/eastern-caribbean-coastal-resilience.svg",
-    "imageAlt": "Eastern Caribbean coastal settlement protected by mangroves, coral reefs and restored beaches."
+    "imageAlt": "Eastern Caribbean coastal settlement protected by mangroves, coral reefs and restored beaches.",
+    "supportStatus": "current-unfccc-support"
   },
   {
     "label": "Case Study",
@@ -27,7 +29,8 @@
     "region": "Eastern Caribbean / OECS",
     "category": "Wastewater resilience and circular economy",
     "image": "/images/case-studies/eastern-caribbean-wastewater-resilience.svg",
-    "imageAlt": "Resilient wastewater treatment and plastic recycling system protecting Eastern Caribbean coastal waters."
+    "imageAlt": "Resilient wastewater treatment and plastic recycling system protecting Eastern Caribbean coastal waters.",
+    "supportStatus": "current-unfccc-support"
   },
   {
     "label": "Case Study",
@@ -37,7 +40,8 @@
     "region": "Eastern Caribbean / OECS",
     "category": "Water security and climate-resilient infrastructure",
     "image": "/images/case-studies/eastern-caribbean-water-security.svg",
-    "imageAlt": "Climate-resilient water system with storage tanks, watersheds, solar pumps and island communities in the Eastern Caribbean."
+    "imageAlt": "Climate-resilient water system with storage tanks, watersheds, solar pumps and island communities in the Eastern Caribbean.",
+    "supportStatus": "current-unfccc-support"
   },
   {
     "label": "Case Study",
@@ -47,7 +51,8 @@
     "region": "Eastern Caribbean / OECS",
     "category": "Capacity building and technology transfer",
     "image": "/images/case-studies/eastern-caribbean-capacity-technology-transfer.svg",
-    "imageAlt": "Regional climate professionals exchanging knowledge and climate-smart technology across Eastern Caribbean islands."
+    "imageAlt": "Regional climate professionals exchanging knowledge and climate-smart technology across Eastern Caribbean islands.",
+    "supportStatus": "current-unfccc-support"
   },
   {
     "label": "Case Study",
@@ -57,7 +62,8 @@
     "region": "Eastern Caribbean / OECS",
     "category": "Climate-smart agriculture and food security",
     "image": "/images/case-studies/eastern-caribbean-sustainable-agriculture.svg",
-    "imageAlt": "Climate-smart agriculture with resilient crops, drip irrigation and smallholder farmers in the Eastern Caribbean."
+    "imageAlt": "Climate-smart agriculture with resilient crops, drip irrigation and smallholder farmers in the Eastern Caribbean.",
+    "supportStatus": "current-unfccc-support"
   },
   {
     "label": "Case Study",
@@ -67,7 +73,8 @@
     "region": "Eastern Caribbean / OECS",
     "category": "Sustainable transport and e-mobility",
     "image": "/images/case-studies/eastern-caribbean-electric-mobility.svg",
-    "imageAlt": "Electric buses and charging infrastructure supporting sustainable transport in Eastern Caribbean island communities."
+    "imageAlt": "Electric buses and charging infrastructure supporting sustainable transport in Eastern Caribbean island communities.",
+    "supportStatus": "current-unfccc-support"
   },
   {
     "label": "Case Study",
@@ -77,7 +84,8 @@
     "region": "Eastern Caribbean / OECS",
     "category": "GCF concept note and coastal adaptation",
     "image": "/images/case-studies/gcf-coastal-cities-eastern-caribbean.svg",
-    "imageAlt": "GCF coastal cities programme combining mangrove restoration, resilient infrastructure and climate information services."
+    "imageAlt": "GCF coastal cities programme combining mangrove restoration, resilient infrastructure and climate information services.",
+    "supportStatus": "current-unfccc-support"
   },
   {
     "label": "Case Study",
@@ -87,7 +95,8 @@
     "region": "Eastern Caribbean / OECS",
     "category": "GCF concept note and water security",
     "image": "/images/case-studies/gcf-water-security-eastern-caribbean.svg",
-    "imageAlt": "GCF water security programme with desalination, water storage, watershed restoration and resilient island infrastructure."
+    "imageAlt": "GCF water security programme with desalination, water storage, watershed restoration and resilient island infrastructure.",
+    "supportStatus": "current-unfccc-support"
   },
   {
     "label": "Case Study",
@@ -97,6 +106,7 @@
     "region": "Eastern Caribbean / OECS",
     "category": "GEF concept note, wastewater and circular economy",
     "image": "/images/case-studies/gef-wastewater-management-eastern-caribbean.svg",
-    "imageAlt": "GEF waste and wastewater management project reducing marine pollution and supporting circular economy systems."
+    "imageAlt": "GEF waste and wastewater management project reducing marine pollution and supporting circular economy systems.",
+    "supportStatus": "current-unfccc-support"
   }
 ]

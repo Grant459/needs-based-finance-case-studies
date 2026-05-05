@@ -34,24 +34,53 @@
   max-width: 720px;
 }
 
-.featured-section {
+.case-study-section {
   padding: 5rem 0 2rem;
 }
 
-.section-heading {
+.case-study-section + .case-study-section {
+  border-top: 1px solid var(--line);
+  margin-top: 2rem;
+  padding-top: 4rem;
+}
+
+.case-study-section-secondary {
+  background: linear-gradient(180deg, rgba(242, 234, 220, 0.45), rgba(242, 234, 220, 0));
+  margin-left: calc((100vw - min(1120px, calc(100vw - 2rem))) / -2);
+  margin-right: calc((100vw - min(1120px, calc(100vw - 2rem))) / -2);
+  padding-left: calc((100vw - min(1120px, calc(100vw - 2rem))) / 2);
+  padding-right: calc((100vw - min(1120px, calc(100vw - 2rem))) / 2);
+}
+
+.case-study-section-header {
   display: grid;
   grid-template-columns: 0.55fr 1fr;
-  gap: 2rem;
-  align-items: end;
+  gap: 1rem 2rem;
+  align-items: start;
   margin-bottom: 2rem;
 }
 
-.section-heading h2 {
+.case-study-section-kicker {
+  color: var(--clay);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0;
+  margin-bottom: 0;
+  text-transform: uppercase;
+}
+
+.case-study-section-header h2 {
   font-family: Georgia, "Times New Roman", serif;
   font-size: clamp(2rem, 5vw, 4rem);
   font-weight: 500;
   line-height: 1;
   margin-bottom: 0;
+}
+
+.case-study-section-header p:not(.case-study-section-kicker) {
+  grid-column: 2;
+  margin-bottom: 0;
+  max-width: 720px;
 }
 
 .case-card-grid {
@@ -109,6 +138,31 @@
   flex: 1;
   flex-direction: column;
   padding: 1.35rem;
+}
+
+.case-card-topline {
+  align-items: flex-start;
+  display: flex;
+  gap: 0.75rem;
+  justify-content: space-between;
+  margin-bottom: 0.9rem;
+}
+
+.case-card-topline .eyebrow {
+  margin-bottom: 0;
+}
+
+.case-card-status-badge {
+  background: #edf3ee;
+  border: 1px solid #cfded4;
+  border-radius: 999px;
+  color: var(--ink);
+  flex-shrink: 0;
+  font-size: 0.72rem;
+  font-weight: 800;
+  line-height: 1;
+  padding: 0.42rem 0.55rem;
+  text-align: center;
 }
 
 .case-card h2 {
@@ -334,9 +388,13 @@
 }
 
 @media (max-width: 900px) {
-  .section-heading,
+  .case-study-section-header,
   .article-layout {
     grid-template-columns: 1fr;
+  }
+
+  .case-study-section-header p:not(.case-study-section-kicker) {
+    grid-column: auto;
   }
 
   .article-layout {
@@ -354,9 +412,14 @@
     padding: 3.5rem 0 2.5rem;
   }
 
-  .featured-section,
+  .case-study-section,
   .article-layout {
     padding-top: 3rem;
+  }
+
+  .case-card-topline {
+    align-items: flex-start;
+    flex-direction: column;
   }
 
   .detail-hero {

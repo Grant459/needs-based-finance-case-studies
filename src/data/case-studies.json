@@ -1,178 +1,313 @@
 [
   {
-    "label": "Needs-Based Finance Case Study",
-    "title": "Regional Climate Finance Needs Assessment",
-    "subtitle": "A placeholder case study about identifying climate finance needs, organizing evidence, and translating regional priorities into a practical planning baseline.",
-    "summary": "A placeholder example showing how climate finance needs can be organized into clear priorities, evidence gaps, and implementation pathways.",
-    "slug": "regional-climate-finance-needs-assessment",
-    "region": "Regional",
-    "category": "Needs Assessment",
-    "calloutText": "Needs-based finance starts with a clear view of priorities, gaps, and decision-ready evidence.",
+    "label": "Case Study",
+    "title": "The Safe Havens Initiative: Transforming Schools into Climate-Resilient Community Hubs",
+    "subtitle": "Converting selected schools in the Maldives into resilient facilities that sustain education continuity and provide safe shelter, water, electricity, communications and emergency support during climate-related shocks.",
+    "summary": "A Maldives project concept to strengthen the resilience of the education system and surrounding island communities by upgrading selected schools into climate-resilient safe havens. The concept combines resilient school infrastructure, renewable energy and battery systems, WASH, emergency communications, operational protocols, skills development, and sustainable maintenance financing.",
+    "slug": "maldives-safe-havens-schools",
+    "region": "Maldives / Indian Ocean SIDS",
+    "category": "Climate-resilient education infrastructure",
+    "calloutText": "The concept positions schools as distributed resilience hubs: places that continue delivering education while also providing essential services and safe refuge during climate shocks.",
     "relatedCaseStudies": [
-      "climate-finance-needs-to-investment-concepts",
-      "strengthening-climate-finance-access-sids-ldcs"
+      "eastern-caribbean-coastal-resilience",
+      "eastern-caribbean-wastewater-resilience"
     ],
-    "image": "assets/climate-needs-assessment.svg",
-    "imageAlt": "Abstract climate finance assessment chart placeholder",
+    "image": "/images/case-studies/maldives-safe-havens.svg",
+    "imageAlt": "Illustration of a climate-resilient school serving as a community safe haven in the Maldives.",
     "sections": [
       {
-        "heading": "Context",
+        "heading": "The climate finance need",
+        "kicker": "Context",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "This placeholder case study represents a regional process for organizing climate finance needs across sectors, institutions, and time horizons."
+            "text": "The Maldives is highly exposed to sea-level rise, flooding, coastal hazards, extreme heat, water stress and climate-induced power disruptions. Schools in outer atolls are especially vulnerable because they depend on isolated island grids, limited water storage, and infrastructure not originally designed for dual education and emergency-shelter functions."
           },
           {
             "type": "paragraph",
-            "text": "Replace this sample copy with approved needs-based finance content when separately provided material is available."
+            "text": "The baseline is limited: only a small number of schools are formally designated as emergency safe havens, and existing facilities generally lack resilient WASH, autonomous power, cooling, communications and operating protocols."
+          },
+          {
+            "type": "paragraph",
+            "text": "The needs-based finance challenge is to move from reactive repair after climate shocks to proactive adaptation investments that protect learning continuity and community safety."
           }
         ]
       },
       {
-        "heading": "Assessment Approach",
-        "kicker": "Evidence first",
+        "heading": "Proposed response",
+        "kicker": "Investment concept",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "The sample engagement focuses on mapping climate priorities, documenting finance gaps, and creating a shared evidence base for concept development."
+            "text": "The project would convert selected schools into climate-resilient facilities able to sustain education continuity and operate as community safe havens during climate shocks."
           },
+          {
+            "type": "paragraph",
+            "text": "The proposed investment combines climate-resilient standards, green procurement, school-level climate risk screening, solar PV and battery systems, resilient WASH, emergency communications, passive cooling, and safe-haven operating protocols."
+          },
+          {
+            "type": "paragraph",
+            "text": "A model climate-resilient school in Hulhumale would act as a national demonstration hub, while selected existing schools would be retrofitted as regional safe havens."
+          }
+        ]
+      },
+      {
+        "heading": "Components",
+        "kicker": "From policy to implementation",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Component 1 strengthens the enabling environment for climate-resilient education through standards, building codes, procurement guidance, institutional capacity, TVET skills, youth leadership and monitoring systems."
+          },
+          {
+            "type": "paragraph",
+            "text": "Component 2 establishes the operational backbone: resilient energy, water, communications, preparedness systems and a school facility maintenance financing mechanism."
+          },
+          {
+            "type": "paragraph",
+            "text": "Component 3 demonstrates climate-resilient school infrastructure, safe-haven functionality and limited emergency mobility support for high-risk island contexts."
+          }
+        ]
+      },
+      {
+        "heading": "Investment readiness",
+        "kicker": "Why this matters for fund engagement",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The concept has a clear adaptation rationale, with renewable energy and low-emission mobility framed as continuity-of-service assets rather than stand-alone mitigation investments."
+          },
+          {
+            "type": "paragraph",
+            "text": "It links national policy priorities, education-sector resilience, disaster preparedness, water security and infrastructure standards into a coherent project logic."
+          },
+          {
+            "type": "paragraph",
+            "text": "The investment can be further developed by refining the climate rationale, beneficiary estimates, costed design packages, O&M financing model, safeguard approach and theory of change."
+          }
+        ]
+      },
+      {
+        "heading": "Expected resilience outcomes",
+        "kicker": "Results",
+        "blocks": [
           {
             "type": "list",
             "items": [
-              "Compiled sector priorities and adaptation or mitigation needs.",
-              "Identified finance gaps, readiness constraints, and delivery risks.",
-              "Organized findings into a practical needs assessment structure."
+              "Reduced disruption to education during climate shocks.",
+              "Increased availability of safe shelter, water, power, communications and emergency support for surrounding communities.",
+              "Stronger national standards and procurement systems for climate-resilient school infrastructure.",
+              "Improved local capacity to operate, maintain and activate climate-critical systems."
             ]
-          }
-        ]
-      },
-      {
-        "heading": "Planning Outputs",
-        "blocks": [
-          {
-            "type": "paragraph",
-            "text": "The placeholder output section shows how longer article content, lists, and generated section anchors appear in the detail page."
-          },
-          {
-            "type": "divider"
-          },
-          {
-            "type": "subheading",
-            "text": "Reusable planning baseline"
-          },
-          {
-            "type": "paragraph",
-            "text": "The process produces a neutral baseline that can support country dialogue, donor coordination, and future investment concept design."
           }
         ]
       }
     ]
   },
   {
-    "label": "Needs-Based Finance Case Study",
-    "title": "Translating Climate Finance Needs into Investment-Ready Concepts",
-    "subtitle": "A sample story for testing a case-study page about turning needs assessment findings into structured, investment-ready concept notes.",
-    "summary": "A sample case-study card for validating the local layout before separately provided approved needs-based finance content is added.",
-    "slug": "climate-finance-needs-to-investment-concepts",
-    "region": "Multi-country",
-    "category": "Project Concept Development",
-    "calloutText": "The bridge from need to finance is a clear concept, a plausible delivery model, and an evidence-backed rationale.",
+    "label": "Case Study",
+    "title": "Nature-Based Solutions for Strengthening Climate Resilience in Eastern Caribbean Coastal Cities",
+    "subtitle": "A regional OECS concept using nature-based solutions, disaster risk reduction and resilient infrastructure to protect vulnerable coastal cities, towns and villages.",
+    "summary": "A regional Eastern Caribbean project concept led by the OECS to strengthen climate resilience in coastal cities and settlements through beach, mangrove and coral restoration, green infrastructure, building-code strengthening, disaster risk reduction, sustainable finance and capacity building.",
+    "slug": "eastern-caribbean-coastal-resilience",
+    "region": "Eastern Caribbean / OECS",
+    "category": "Coastal resilience and nature-based solutions",
+    "calloutText": "The concept demonstrates how a regional programme can combine island-specific investment needs with a broader shift toward climate-resilient coastal infrastructure and nature-based adaptation.",
     "relatedCaseStudies": [
-      "regional-climate-finance-needs-assessment",
-      "strengthening-climate-finance-access-sids-ldcs"
+      "maldives-safe-havens-schools",
+      "eastern-caribbean-wastewater-resilience"
     ],
-    "image": "assets/investment-concepts.svg",
-    "imageAlt": "Abstract investment concept dashboard placeholder",
+    "image": "/images/case-studies/eastern-caribbean-coastal-resilience.svg",
+    "imageAlt": "Illustration of Eastern Caribbean coastal resilience using mangroves, reefs and resilient urban infrastructure.",
     "sections": [
       {
-        "heading": "Starting Point",
+        "heading": "The climate finance need",
+        "kicker": "Context",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "The placeholder scenario begins with a portfolio of climate finance needs that require prioritization, sequencing, and translation into potential fundable concepts."
+            "text": "Eastern Caribbean coastal cities, towns and villages face escalating risks from sea-level rise, hurricanes, storm surges, flooding, extreme heat and biodiversity degradation."
+          },
+          {
+            "type": "paragraph",
+            "text": "The OECS concept responds to different stages of resilience readiness across territories, while maintaining a regional framework for coordination, capacity building and investment preparation."
+          },
+          {
+            "type": "paragraph",
+            "text": "The proposal identifies coastal infrastructure damage, tourism losses, agriculture and fisheries impacts, health and social service needs, and ecosystem restoration requirements across Antigua and Barbuda, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines."
           }
         ]
       },
       {
-        "heading": "Concept Development",
+        "heading": "Proposed response",
+        "kicker": "Investment concept",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "The sample workflow defines concept objectives, target beneficiaries, delivery partners, cost categories, and early risk considerations."
+            "text": "The project would design, implement and scale nature-based solutions and disaster risk reduction measures for vulnerable coastal cities and settlements."
           },
+          {
+            "type": "paragraph",
+            "text": "Proposed interventions include beach restoration, mangrove restoration, coral restoration, wetland rehabilitation, green infrastructure, resilient retrofitting, updated building codes, regional green standards and procurement policies, asset reassessment, and public awareness."
+          },
+          {
+            "type": "paragraph",
+            "text": "The concept includes both a regional coastal resilience package and a more targeted building-sector resilience package for Saint Lucia and Dominica."
+          }
+        ]
+      },
+      {
+        "heading": "Components",
+        "kicker": "Adaptation measures",
+        "blocks": [
           {
             "type": "list",
             "items": [
-              "Prioritized needs according to urgency, readiness, and potential climate impact.",
-              "Mapped each concept to possible funding windows and implementation partners.",
-              "Prepared a concise concept structure for review and refinement."
+              "Nature-based solutions assessment and engagement, including vulnerability reviews and action planning.",
+              "Ecosystem-based approaches such as beach, mangrove and coral reef restoration.",
+              "Green infrastructure interventions for critical public and private assets, including resource centres, hurricane shelters and tourism-related infrastructure.",
+              "Sustainable financing mechanisms, including blended finance and potential cash-flow approaches linked to mangrove carbon storage.",
+              "Capacity building and governance through OECS-led awareness, youth engagement, private-sector outreach and local government training.",
+              "Disaster risk reduction through building-code updates, technical assistance centres, climate-proofing interventions and early warning integration."
             ]
           }
         ]
       },
       {
-        "heading": "Resulting Materials",
+        "heading": "Investment readiness",
+        "kicker": "Routing and next steps",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "This placeholder result section can be replaced with approved case-study outcomes, including investment concept summaries or readiness outputs."
+            "text": "The concept is suitable for further refinement into a regional programme with island-specific investment packages."
+          },
+          {
+            "type": "paragraph",
+            "text": "Key next steps include confirming country ownership, prioritizing the most mature interventions, validating cost assumptions, identifying the best financing route, and clarifying the role of grants, concessional loans and technical assistance."
+          },
+          {
+            "type": "paragraph",
+            "text": "The programme would benefit from sharper sequencing between assessment, pipeline clean-up, partner routing, feasibility work and investor engagement."
+          }
+        ]
+      },
+      {
+        "heading": "Expected resilience outcomes",
+        "kicker": "Results",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Reduced vulnerability and increased adaptive capacity of coastal populations.",
+              "Deployment of nature-based solutions and resilient public infrastructure.",
+              "Protection of tourism, fisheries, livelihoods and coastal ecosystems.",
+              "Stronger regional approach to blue economy protection and climate-resilient coastal development."
+            ]
           }
         ]
       }
     ]
   },
   {
-    "label": "Needs-Based Finance Case Study",
-    "title": "Strengthening Access to Climate Finance for SIDS and LDCs",
-    "subtitle": "A local placeholder detail page demonstrating flexible content sections for access, readiness, and institutional coordination work.",
-    "summary": "Placeholder content demonstrating how access, readiness, and institutional coordination case studies appear across responsive breakpoints.",
-    "slug": "strengthening-climate-finance-access-sids-ldcs",
-    "region": "SIDS and LDCs",
-    "category": "Climate Finance Access",
-    "calloutText": "Access support is most useful when it connects finance needs to institutional capacity, readiness actions, and realistic submission pathways.",
+    "label": "Case Study",
+    "title": "Strengthening Resilience in Waste and Wastewater Management Systems in the Eastern Caribbean",
+    "subtitle": "A regional OECS concept to improve wastewater treatment, reduce pollution, strengthen public health and support circular economy solutions under changing climate conditions.",
+    "summary": "A regional Eastern Caribbean project concept focused on climate-resilient waste and wastewater management. The proposal combines wastewater master planning, decentralized and centralized treatment solutions, plastic recycling, pollution reduction, infrastructure upgrades, climate-smart equipment, institutional strengthening and public awareness.",
+    "slug": "eastern-caribbean-wastewater-resilience",
+    "region": "Eastern Caribbean / OECS",
+    "category": "Wastewater resilience and circular economy",
+    "calloutText": "The concept links climate adaptation, public health, pollution control and circular economy measures into a practical regional investment pipeline.",
     "relatedCaseStudies": [
-      "regional-climate-finance-needs-assessment",
-      "climate-finance-needs-to-investment-concepts"
+      "eastern-caribbean-coastal-resilience",
+      "maldives-safe-havens-schools"
     ],
-    "image": "assets/finance-access.svg",
-    "imageAlt": "Abstract climate finance access map placeholder",
+    "image": "/images/case-studies/eastern-caribbean-wastewater-resilience.svg",
+    "imageAlt": "Illustration of resilient wastewater systems and circular economy solutions in Eastern Caribbean island communities.",
     "sections": [
       {
-        "heading": "Challenge",
+        "heading": "The climate finance need",
+        "kicker": "Context",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Small island developing states and least developed countries often face capacity, coordination, and transaction-cost barriers when moving from identified needs to accessible finance."
+            "text": "Rapid urbanization, coastal population growth and tourism pressure are increasing stress on waste and wastewater systems in the Eastern Caribbean."
+          },
+          {
+            "type": "paragraph",
+            "text": "Many wastewater facilities are outdated, undersized or poorly maintained, resulting in untreated or partially treated effluent entering coastal waters, rivers and groundwater."
+          },
+          {
+            "type": "paragraph",
+            "text": "Climate change compounds these risks through flooding, sea-level rise, extreme rainfall, storm damage and public health pressures."
           }
         ]
       },
       {
-        "heading": "Support Model",
+        "heading": "Proposed response",
+        "kicker": "Investment concept",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "The placeholder support model combines readiness diagnostics, stakeholder coordination, and a practical view of funding routes."
+            "text": "The project would strengthen waste and wastewater management systems across OECS member states, with a target of reducing contamination of high-water-table and marine environments and reducing plastic waste pollution."
           },
           {
-            "type": "subheading",
-            "text": "From access barriers to action"
+            "type": "paragraph",
+            "text": "Proposed actions include wastewater master plans for each island, integrated wastewater solutions for vulnerable communities, community septic treatment systems, upgraded treatment facilities, decentralized and nature-based treatment where appropriate, and a regional plastic recycling plant."
           },
+          {
+            "type": "paragraph",
+            "text": "The concept also promotes circular economy opportunities by transforming local plastic waste streams into useful building products."
+          }
+        ]
+      },
+      {
+        "heading": "Components",
+        "kicker": "Systems approach",
+        "blocks": [
           {
             "type": "list",
             "items": [
-              "Mapped institutional roles and coordination gaps.",
-              "Identified readiness actions required before proposal development.",
-              "Sequenced access steps around available capacity and finance priorities."
+              "Control grey and black water pollution to reduce contaminants entering water sources and nearshore marine ecosystems.",
+              "Enhance habitats and protect coastal and maritime environments.",
+              "Reduce plastic pollution through improved collection, segregation, recycling and value-added processing.",
+              "Build capacity in advanced waste management techniques.",
+              "Upgrade infrastructure and introduce climate-smart equipment for more resilient waste processing.",
+              "Strengthen policy, regulation, monitoring and enforcement systems."
             ]
           }
         ]
       },
       {
-        "heading": "Next Stage",
+        "heading": "Investment readiness",
+        "kicker": "Routing and next steps",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "The placeholder next-stage section shows where approved content can describe strengthened access pathways, clearer roles, and more focused climate finance engagement."
+            "text": "The concept has a clear multi-country adaptation and public-health rationale but should be sharpened into prioritized investment packages with realistic sequencing."
+          },
+          {
+            "type": "paragraph",
+            "text": "Immediate next steps include validating island-level needs, confirming executing and implementing arrangements, testing cost-recovery assumptions, preparing feasibility studies, and clarifying which components are best suited for grants, concessional loans, technical assistance or blended finance."
+          },
+          {
+            "type": "paragraph",
+            "text": "The proposal should also define how regional knowledge exchange, utility training, community engagement and private-sector participation will support long-term sustainability."
+          }
+        ]
+      },
+      {
+        "heading": "Expected resilience outcomes",
+        "kicker": "Results",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Reduced wastewater contamination and plastic pollution.",
+              "Improved public health and environmental quality.",
+              "Stronger resilience of wastewater infrastructure to climate hazards.",
+              "Enhanced coastal and marine habitats.",
+              "New circular economy opportunities and job creation."
+            ]
           }
         ]
       }

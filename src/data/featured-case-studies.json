@@ -1,32 +1,32 @@
 [
   {
-    "label": "Needs-Based Finance Case Study",
-    "title": "Regional Climate Finance Needs Assessment",
-    "summary": "A placeholder example showing how climate finance needs can be organized into clear priorities, evidence gaps, and implementation pathways.",
-    "slug": "regional-climate-finance-needs-assessment",
-    "region": "Regional",
-    "category": "Needs Assessment",
-    "image": "assets/climate-needs-assessment.svg",
-    "imageAlt": "Abstract climate finance assessment chart placeholder"
+    "label": "Case Study",
+    "title": "The Safe Havens Initiative: Transforming Schools into Climate-Resilient Community Hubs",
+    "summary": "A Maldives project concept to upgrade selected schools into climate-resilient safe havens that support education continuity and community safety during climate shocks.",
+    "slug": "maldives-safe-havens-schools",
+    "region": "Maldives / Indian Ocean SIDS",
+    "category": "Climate-resilient education infrastructure",
+    "image": "/images/case-studies/maldives-safe-havens.svg",
+    "imageAlt": "Illustration of a climate-resilient school serving as a community safe haven in the Maldives."
   },
   {
-    "label": "Needs-Based Finance Case Study",
-    "title": "Translating Climate Finance Needs into Investment-Ready Concepts",
-    "summary": "A sample case-study card for validating the local layout before separately provided approved needs-based finance content is added.",
-    "slug": "climate-finance-needs-to-investment-concepts",
-    "region": "Multi-country",
-    "category": "Project Concept Development",
-    "image": "assets/investment-concepts.svg",
-    "imageAlt": "Abstract investment concept dashboard placeholder"
+    "label": "Case Study",
+    "title": "Nature-Based Solutions for Strengthening Climate Resilience in Eastern Caribbean Coastal Cities",
+    "summary": "A regional OECS project concept to protect vulnerable coastal settlements through nature-based solutions, resilient infrastructure and disaster risk reduction.",
+    "slug": "eastern-caribbean-coastal-resilience",
+    "region": "Eastern Caribbean / OECS",
+    "category": "Coastal resilience and nature-based solutions",
+    "image": "/images/case-studies/eastern-caribbean-coastal-resilience.svg",
+    "imageAlt": "Illustration of Eastern Caribbean coastal resilience using mangroves, reefs and resilient urban infrastructure."
   },
   {
-    "label": "Needs-Based Finance Case Study",
-    "title": "Strengthening Access to Climate Finance for SIDS and LDCs",
-    "summary": "Placeholder content demonstrating how access, readiness, and institutional coordination case studies appear across responsive breakpoints.",
-    "slug": "strengthening-climate-finance-access-sids-ldcs",
-    "region": "SIDS and LDCs",
-    "category": "Climate Finance Access",
-    "image": "assets/finance-access.svg",
-    "imageAlt": "Abstract climate finance access map placeholder"
+    "label": "Case Study",
+    "title": "Strengthening Resilience in Waste and Wastewater Management Systems in the Eastern Caribbean",
+    "summary": "A regional OECS project concept to improve wastewater treatment, reduce pollution, strengthen public health and support circular economy solutions.",
+    "slug": "eastern-caribbean-wastewater-resilience",
+    "region": "Eastern Caribbean / OECS",
+    "category": "Wastewater resilience and circular economy",
+    "image": "/images/case-studies/eastern-caribbean-wastewater-resilience.svg",
+    "imageAlt": "Illustration of resilient wastewater systems and circular economy solutions in Eastern Caribbean island communities."
   }
 ]

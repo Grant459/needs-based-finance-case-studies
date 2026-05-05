@@ -4,16 +4,15 @@ export default function Footer() {
       <div className="footer-inner">
         <div>
           <p className="footer-brand">Needs-Based Finance</p>
-          <p>Planning, evidence, and concept development for climate finance needs.</p>
+          <p>Origination, validation, and facilitation of concept development for climate finance needs together with funds and partners</p>
         </div>
         <address className="footer-contact">
-          <a href="mailto:NBFProject@unfccc.int">NBFProject@unfccc.int</a>
+          <a href="mailto:NBFProject@unfccc.int">nbfproject@unfccc.int</a>
         </address>
         <p className="footer-disclaimer">
-          Placeholder informational site for local and GitHub Pages testing. Replace this text with approved legal,
-          privacy, and program information before public use.
+          Not for public use, these test pages for selected viewers only. The content does not necessarily represent the views/opinion of the UNFCCC secretariat and neither does the UNFCCC secretariat vouch for or shall be held liable/accountable for the accuracy, reliability, usefulness, completeness of the views, opinion, statements, any written text in any form and/or any other information provided/distributed or displayed.
         </p>
-        <p className="footer-copyright">Copyright 2026 Needs-Based Finance. All rights reserved.</p>
+        <p className="footer-copyright">All rights reserved.</p>
       </div>
     </footer>
   );

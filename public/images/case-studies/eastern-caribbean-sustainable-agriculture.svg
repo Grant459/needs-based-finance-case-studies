@@ -1,0 +1,15 @@
+<svg width="960" height="540" viewBox="0 0 960 540" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Climate-smart agriculture</title>
+  <desc id="desc">Smallholder plots with drip irrigation, shade structures, resilient crops, rainwater harvesting and hills.</desc>
+  <rect width="960" height="540" fill="#EAF0EA"/>
+  <path d="M0 272C108 184 240 160 390 220C524 274 638 238 790 152C854 116 914 112 960 136V382H0V272Z" fill="#7DA77E"/>
+  <path d="M84 408C210 338 350 334 482 390C600 440 760 428 896 358" stroke="#8FB77B" stroke-width="34" stroke-linecap="round"/>
+  <path d="M116 462C248 392 382 396 514 446C638 492 774 484 900 420" stroke="#F4E7C7" stroke-width="28" stroke-linecap="round"/>
+  <path d="M232 374C276 298 334 262 422 246C414 332 350 374 232 374Z" fill="#173F35"/>
+  <path d="M500 362C540 288 600 250 690 232C678 322 616 366 500 362Z" fill="#D7A84F"/>
+  <path d="M404 406V258M670 388V248" stroke="#173F35" stroke-width="10" stroke-linecap="round"/>
+  <path d="M168 314H286M560 206H724" stroke="#173F35" stroke-width="8" stroke-linecap="round"/>
+  <rect x="704" y="292" width="82" height="70" rx="8" fill="#FFF8EA" stroke="#173F35" stroke-width="6"/>
+  <path d="M724 326H766" stroke="#7DB6B1" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="820" cy="116" r="44" fill="#C76545"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="960" height="540" viewBox="0 0 960 540" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GCF coastal cities programme</title>
+  <desc id="desc">Coastal city with mangrove restoration, resilient infrastructure and climate information dashboard.</desc>
+  <rect width="960" height="540" fill="#E9F2EF"/>
+  <path d="M0 318C120 282 246 292 366 326C500 366 640 356 790 302C864 276 920 276 960 292V540H0V318Z" fill="#75B6B2"/>
+  <rect x="118" y="190" width="72" height="128" fill="#FFF8EA" stroke="#173F35" stroke-width="6"/>
+  <rect x="212" y="146" width="98" height="172" fill="#D7A84F" stroke="#173F35" stroke-width="6"/>
+  <rect x="334" y="176" width="88" height="142" fill="#FFF8EA" stroke="#173F35" stroke-width="6"/>
+  <rect x="526" y="120" width="220" height="132" rx="10" fill="#FFF8EA" stroke="#173F35" stroke-width="8"/>
+  <path d="M554 160H704M554 198H660" stroke="#7DB6B1" stroke-width="10" stroke-linecap="round"/>
+  <path d="M680 220C704 192 724 182 746 176" stroke="#C76545" stroke-width="8" stroke-linecap="round"/>
+  <path d="M500 358C530 296 580 270 654 270C626 338 578 366 500 358Z" fill="#173F35"/>
+  <path d="M626 374C662 310 722 284 806 288C770 358 710 386 626 374Z" fill="#2F7A64"/>
+  <path d="M92 400C172 362 264 366 344 402M566 424C654 376 760 376 846 420" stroke="#F4E7C7" stroke-width="12" stroke-linecap="round"/>
+</svg>

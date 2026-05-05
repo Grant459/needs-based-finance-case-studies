@@ -1,0 +1,18 @@
+<svg width="960" height="540" viewBox="0 0 960 540" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sustainable electric mobility</title>
+  <desc id="desc">Electric buses and EV charging stations beside a coastal road with a solar canopy and island town.</desc>
+  <rect width="960" height="540" fill="#ECEDE7"/>
+  <path d="M0 288C112 206 242 194 374 250C488 300 610 280 746 204C842 150 914 148 960 178V390H0V288Z" fill="#7DA77E"/>
+  <path d="M0 392C128 356 270 368 410 402C548 438 704 430 860 380C908 366 940 362 960 362V540H0V392Z" fill="#75B6B2"/>
+  <rect x="168" y="274" width="408" height="126" rx="22" fill="#173F35"/>
+  <rect x="206" y="304" width="74" height="40" rx="6" fill="#9BC7C0"/>
+  <rect x="306" y="304" width="74" height="40" rx="6" fill="#9BC7C0"/>
+  <rect x="406" y="304" width="74" height="40" rx="6" fill="#9BC7C0"/>
+  <circle cx="260" cy="408" r="30" fill="#D7A84F" stroke="#173F35" stroke-width="8"/>
+  <circle cx="492" cy="408" r="30" fill="#D7A84F" stroke="#173F35" stroke-width="8"/>
+  <rect x="654" y="220" width="82" height="178" rx="12" fill="#FFF8EA" stroke="#173F35" stroke-width="8"/>
+  <path d="M672 256H718M672 292H718M695 326V362" stroke="#C76545" stroke-width="8" stroke-linecap="round"/>
+  <path d="M618 292C650 292 660 314 654 340" stroke="#173F35" stroke-width="8" stroke-linecap="round"/>
+  <path d="M618 188H774L734 220H578L618 188Z" fill="#D7A84F" stroke="#173F35" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M124 442H828" stroke="#F4E7C7" stroke-width="14" stroke-linecap="round"/>
+</svg>

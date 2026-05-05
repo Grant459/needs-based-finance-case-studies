@@ -1,13 +1,18 @@
-<svg width="720" height="420" viewBox="0 0 720 420" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="720" height="420" fill="#EAF0EA"/>
-  <path d="M0 284C80 252 146 260 224 286C304 312 390 314 476 282C560 250 636 244 720 274V420H0V284Z" fill="#6EAAA7"/>
-  <path d="M0 336C104 306 194 312 292 338C390 364 508 358 620 326C660 314 692 310 720 310V420H0V336Z" fill="#173F35"/>
-  <path d="M158 260C176 218 206 194 248 184C222 222 220 248 232 282" stroke="#D7A84F" stroke-width="12" stroke-linecap="round"/>
-  <path d="M250 184C286 204 304 234 304 276" stroke="#D7A84F" stroke-width="12" stroke-linecap="round"/>
-  <path d="M118 310C160 274 210 270 260 304" stroke="#F8F4EC" stroke-width="10" stroke-linecap="round"/>
-  <rect x="422" y="154" width="132" height="116" rx="4" fill="#F8F4EC" stroke="#173F35" stroke-width="6"/>
-  <rect x="450" y="188" width="28" height="34" fill="#AFC9C2"/>
-  <rect x="500" y="188" width="28" height="34" fill="#AFC9C2"/>
-  <path d="M402 154L488 102L574 154H402Z" fill="#C76545" stroke="#173F35" stroke-width="6" stroke-linejoin="round"/>
-  <circle cx="598" cy="108" r="28" fill="#D7A84F"/>
+<svg width="960" height="540" viewBox="0 0 960 540" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Eastern Caribbean coastal resilience</title>
+  <desc id="desc">Coastal town protected by mangroves, restored beach and coral reef under storm clouds.</desc>
+  <rect width="960" height="540" fill="#E8F0EC"/>
+  <path d="M0 210C128 130 246 118 366 176C478 230 596 212 720 142C820 86 902 88 960 128V328H0V210Z" fill="#7DA77E"/>
+  <path d="M0 336C116 302 222 310 332 344C460 384 602 378 736 324C820 290 900 288 960 310V540H0V336Z" fill="#75B6B2"/>
+  <path d="M0 406C140 364 286 378 420 414C548 448 704 440 852 392C898 378 934 374 960 374V540H0V406Z" fill="#F4E7C7"/>
+  <rect x="388" y="220" width="94" height="86" rx="4" fill="#FFF8EA" stroke="#173F35" stroke-width="6"/>
+  <path d="M372 220L435 176L498 220H372Z" fill="#C76545" stroke="#173F35" stroke-width="6" stroke-linejoin="round"/>
+  <rect x="526" y="198" width="112" height="108" rx="4" fill="#FFF8EA" stroke="#173F35" stroke-width="6"/>
+  <path d="M506 198L582 148L658 198H506Z" fill="#D7A84F" stroke="#173F35" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M188 394C212 334 254 304 320 294C300 360 258 388 188 394Z" fill="#173F35"/>
+  <path d="M286 404C314 348 364 324 432 326C400 388 352 412 286 404Z" fill="#2F7A64"/>
+  <path d="M104 462C156 420 234 416 294 456M640 468C704 422 790 420 856 462" stroke="#FFF8EA" stroke-width="10" stroke-linecap="round"/>
+  <path d="M700 116C744 90 800 92 840 124M770 86C812 66 864 70 900 100" stroke="#72817B" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="156" cy="460" r="14" fill="#C76545"/>
+  <circle cx="188" cy="448" r="10" fill="#D7A84F"/>
 </svg>

@@ -1,0 +1,15 @@
+<svg width="960" height="540" viewBox="0 0 960 540" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GCF water security programme</title>
+  <desc id="desc">Desalination facility, storage tanks, solar energy, watershed restoration and island water distribution network.</desc>
+  <rect width="960" height="540" fill="#EAF0EA"/>
+  <path d="M0 230C130 150 270 142 408 210C520 266 638 236 772 158C846 114 910 112 960 140V378H0V230Z" fill="#7DA77E"/>
+  <path d="M0 382C136 340 278 350 412 390C548 430 700 420 850 360C900 342 936 340 960 346V540H0V382Z" fill="#76B2B0"/>
+  <rect x="112" y="220" width="200" height="124" rx="10" fill="#FFF8EA" stroke="#173F35" stroke-width="8"/>
+  <path d="M142 264H282M142 304H238" stroke="#7DB6B1" stroke-width="10" stroke-linecap="round"/>
+  <rect x="394" y="174" width="92" height="170" rx="10" fill="#FFF8EA" stroke="#173F35" stroke-width="8"/>
+  <rect x="514" y="208" width="86" height="136" rx="10" fill="#FFF8EA" stroke="#173F35" stroke-width="8"/>
+  <path d="M414 224H466M414 262H466M536 252H578M536 290H578" stroke="#7DB6B1" stroke-width="8" stroke-linecap="round"/>
+  <path d="M666 210H808L770 250H628L666 210Z" fill="#D7A84F" stroke="#173F35" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M350 304H394M486 304H514M600 304H744V374" stroke="#173F35" stroke-width="10" stroke-linecap="round"/>
+  <path d="M642 408C694 374 760 372 820 402" stroke="#F4E7C7" stroke-width="12" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="960" height="540" viewBox="0 0 960 540" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Climate-resilient water systems</title>
+  <desc id="desc">Water storage tanks, watershed restoration, solar pumps and island community distribution pipes.</desc>
+  <rect width="960" height="540" fill="#E9F2EF"/>
+  <path d="M0 236C110 150 246 134 386 204C506 264 628 240 760 160C836 114 908 112 960 146V372H0V236Z" fill="#7DA77E"/>
+  <path d="M0 370C116 334 230 344 348 382C470 420 620 412 770 356C850 326 914 326 960 344V540H0V370Z" fill="#7DB6B1"/>
+  <rect x="138" y="214" width="92" height="134" rx="10" fill="#FFF8EA" stroke="#173F35" stroke-width="8"/>
+  <rect x="258" y="178" width="116" height="170" rx="12" fill="#FFF8EA" stroke="#173F35" stroke-width="8"/>
+  <path d="M154 250H214M154 286H214M280 224H350M280 264H350M280 304H350" stroke="#7DB6B1" stroke-width="8" stroke-linecap="round"/>
+  <rect x="514" y="238" width="116" height="76" rx="8" fill="#173F35"/>
+  <path d="M536 238L572 188L608 238" fill="#D7A84F"/>
+  <path d="M630 274H748" stroke="#173F35" stroke-width="10" stroke-linecap="round"/>
+  <path d="M748 274V332H824" stroke="#173F35" stroke-width="10" stroke-linecap="round"/>
+  <rect x="676" y="156" width="88" height="42" rx="6" fill="#FFF8EA" stroke="#173F35" stroke-width="6"/>
+  <path d="M690 178H750" stroke="#C76545" stroke-width="8" stroke-linecap="round"/>
+  <path d="M120 422C210 392 296 402 382 428C482 458 602 452 730 410" stroke="#F4E7C7" stroke-width="14" stroke-linecap="round"/>
+</svg>

@@ -1,12 +1,18 @@
-<svg width="720" height="420" viewBox="0 0 720 420" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="720" height="420" fill="#ECEDE7"/>
-  <rect x="108" y="108" width="182" height="182" rx="91" fill="#F8F4EC" stroke="#173F35" stroke-width="8"/>
-  <rect x="354" y="96" width="220" height="196" rx="10" fill="#F8F4EC" stroke="#173F35" stroke-width="8"/>
-  <path d="M290 198H354" stroke="#173F35" stroke-width="12" stroke-linecap="round"/>
-  <path d="M154 190C182 154 216 154 244 190C216 228 182 228 154 190Z" fill="#6EAAA7"/>
-  <path d="M394 154H534M394 198H534M394 242H496" stroke="#8FB7B2" stroke-width="16" stroke-linecap="round"/>
-  <path d="M140 326C204 298 276 298 340 326C404 354 480 354 580 320" stroke="#C76545" stroke-width="12" stroke-linecap="round"/>
-  <circle cx="578" cy="322" r="20" fill="#D7A84F"/>
-  <path d="M594 158L622 130L650 158L622 186L594 158Z" fill="#173F35"/>
-  <path d="M620 128V188M592 158H652" stroke="#F8F4EC" stroke-width="6" stroke-linecap="round"/>
+<svg width="960" height="540" viewBox="0 0 960 540" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Wastewater resilience and circular economy</title>
+  <desc id="desc">Island wastewater treatment tanks, clean waterways, recycling bins and protected coastal reef.</desc>
+  <rect width="960" height="540" fill="#E8EFEA"/>
+  <path d="M0 354C110 322 224 328 334 362C478 406 622 392 754 344C836 314 910 316 960 338V540H0V354Z" fill="#72ADA9"/>
+  <path d="M0 428C132 390 280 404 414 438C552 472 704 464 850 414C900 398 936 392 960 392V540H0V428Z" fill="#F4E7C7"/>
+  <ellipse cx="268" cy="278" rx="86" ry="58" fill="#FFF8EA" stroke="#173F35" stroke-width="8"/>
+  <ellipse cx="452" cy="278" rx="86" ry="58" fill="#FFF8EA" stroke="#173F35" stroke-width="8"/>
+  <path d="M354 278H366" stroke="#173F35" stroke-width="12" stroke-linecap="round"/>
+  <path d="M216 278C246 244 286 244 318 278C286 312 246 312 216 278Z" fill="#7DB6B1"/>
+  <path d="M400 278C430 244 470 244 502 278C470 312 430 312 400 278Z" fill="#2F7A64"/>
+  <rect x="618" y="190" width="74" height="118" rx="8" fill="#173F35"/>
+  <rect x="710" y="190" width="74" height="118" rx="8" fill="#D7A84F"/>
+  <path d="M642 230H668M642 258H668M734 230H760M734 258H760" stroke="#FFF8EA" stroke-width="8" stroke-linecap="round"/>
+  <path d="M140 400C220 372 286 386 350 414C434 450 526 448 626 406" stroke="#173F35" stroke-width="10" stroke-linecap="round"/>
+  <path d="M638 418C690 386 760 384 820 414" stroke="#FFF8EA" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="780" cy="424" r="12" fill="#C76545"/>
 </svg>

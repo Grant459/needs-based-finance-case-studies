@@ -1,0 +1,23 @@
+<svg width="960" height="540" viewBox="0 0 960 540" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Climate-resilient school safe haven</title>
+  <desc id="desc">Island school with solar panels, rainwater storage, palm trees and community members gathering safely.</desc>
+  <rect width="960" height="540" fill="#DCEEEB"/>
+  <circle cx="806" cy="104" r="58" fill="#D7A84F"/>
+  <path d="M0 390C110 350 212 356 318 390C436 428 560 428 682 386C790 348 880 348 960 376V540H0V390Z" fill="#7DB6B1"/>
+  <path d="M0 452C142 410 278 420 410 454C548 490 696 484 840 432C886 416 926 410 960 410V540H0V452Z" fill="#F4E7C7"/>
+  <rect x="252" y="228" width="356" height="150" rx="8" fill="#FFF8EA" stroke="#173F35" stroke-width="8"/>
+  <path d="M224 228L430 118L636 228H224Z" fill="#C76545" stroke="#173F35" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M318 186H396L372 222H294L318 186ZM410 186H488L464 222H386L410 186ZM502 186H580L556 222H478L502 186Z" fill="#234E45"/>
+  <rect x="314" y="286" width="56" height="92" fill="#173F35"/>
+  <rect x="414" y="282" width="108" height="54" fill="#9BC7C0"/>
+  <rect x="650" y="244" width="70" height="134" rx="8" fill="#FFF8EA" stroke="#173F35" stroke-width="8"/>
+  <path d="M668 278H702M668 308H702M668 338H702" stroke="#7DB6B1" stroke-width="8" stroke-linecap="round"/>
+  <path d="M146 382C174 330 210 302 260 292" stroke="#173F35" stroke-width="10" stroke-linecap="round"/>
+  <path d="M250 292C222 330 208 360 210 390" stroke="#173F35" stroke-width="10" stroke-linecap="round"/>
+  <path d="M226 286C268 280 304 292 332 322" stroke="#2F7A64" stroke-width="14" stroke-linecap="round"/>
+  <path d="M226 286C202 250 196 220 210 194" stroke="#2F7A64" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="532" cy="392" r="12" fill="#173F35"/>
+  <circle cx="566" cy="392" r="12" fill="#173F35"/>
+  <circle cx="600" cy="392" r="12" fill="#173F35"/>
+  <path d="M500 424C550 404 608 404 654 424" stroke="#173F35" stroke-width="8" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="960" height="540" viewBox="0 0 960 540" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GEF waste and wastewater management</title>
+  <desc id="desc">Wastewater treatment, plastic recycling, clean coastal water, coral reef and biodiversity protection.</desc>
+  <rect width="960" height="540" fill="#E8EFEA"/>
+  <path d="M0 344C126 306 252 318 376 354C514 394 654 384 796 332C866 306 922 306 960 320V540H0V344Z" fill="#72ADA9"/>
+  <ellipse cx="230" cy="250" rx="86" ry="58" fill="#FFF8EA" stroke="#173F35" stroke-width="8"/>
+  <ellipse cx="414" cy="250" rx="86" ry="58" fill="#FFF8EA" stroke="#173F35" stroke-width="8"/>
+  <path d="M178 250C210 218 250 218 282 250C250 282 210 282 178 250Z" fill="#7DB6B1"/>
+  <path d="M362 250C394 218 434 218 466 250C434 282 394 282 362 250Z" fill="#2F7A64"/>
+  <rect x="602" y="170" width="74" height="122" rx="8" fill="#173F35"/>
+  <rect x="700" y="170" width="74" height="122" rx="8" fill="#D7A84F"/>
+  <path d="M626 214H652M626 246H652M724 214H750M724 246H750" stroke="#FFF8EA" stroke-width="8" stroke-linecap="round"/>
+  <path d="M142 404C214 374 294 382 360 414C452 456 554 446 650 400" stroke="#F4E7C7" stroke-width="12" stroke-linecap="round"/>
+  <path d="M664 418C700 388 760 388 810 414M742 430C772 408 820 408 856 430" stroke="#173F35" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="828" cy="432" r="10" fill="#C76545"/>
+  <circle cx="782" cy="414" r="8" fill="#D7A84F"/>
+</svg>

@@ -12,8 +12,8 @@
       "eastern-caribbean-coastal-resilience",
       "eastern-caribbean-wastewater-resilience"
     ],
-    "image": "/images/case-studies/maldives-safe-havens.svg",
-    "imageAlt": "Illustration of a climate-resilient school serving as a community safe haven in the Maldives.",
+    "image": "/images/case-studies/maldives-safe-havens-schools.svg",
+    "imageAlt": "Climate-resilient school in the Maldives with solar panels, water storage, palm trees and a surrounding island community.",
     "sections": [
       {
         "heading": "The climate finance need",
@@ -118,7 +118,7 @@
       "eastern-caribbean-wastewater-resilience"
     ],
     "image": "/images/case-studies/eastern-caribbean-coastal-resilience.svg",
-    "imageAlt": "Illustration of Eastern Caribbean coastal resilience using mangroves, reefs and resilient urban infrastructure.",
+    "imageAlt": "Eastern Caribbean coastal settlement protected by mangroves, coral reefs and restored beaches.",
     "sections": [
       {
         "heading": "The climate finance need",
@@ -222,7 +222,7 @@
       "maldives-safe-havens-schools"
     ],
     "image": "/images/case-studies/eastern-caribbean-wastewater-resilience.svg",
-    "imageAlt": "Illustration of resilient wastewater systems and circular economy solutions in Eastern Caribbean island communities.",
+    "imageAlt": "Resilient wastewater treatment and plastic recycling system protecting Eastern Caribbean coastal waters.",
     "sections": [
       {
         "heading": "The climate finance need",
@@ -307,6 +307,739 @@
               "Stronger resilience of wastewater infrastructure to climate hazards.",
               "Enhanced coastal and marine habitats.",
               "New circular economy opportunities and job creation."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Case Study",
+    "title": "Building Climate-Resilient Water Systems in the Eastern Caribbean",
+    "subtitle": "A regional OECS investment concept to strengthen integrated water resources management, resilient water supply systems, drought resilience and nature-based water security solutions.",
+    "summary": "A regional Eastern Caribbean concept focused on enhancing water security through integrated water resources management, water supply and distribution upgrades, desalination for drought resilience, nature-based solutions, governance strengthening, early warning systems and knowledge sharing.",
+    "slug": "eastern-caribbean-water-security",
+    "region": "Eastern Caribbean / OECS",
+    "category": "Water security and climate-resilient infrastructure",
+    "calloutText": "The concept links water governance, resilient infrastructure, drought preparedness and ecosystem protection into a regional SIDS water-security investment package.",
+    "relatedCaseStudies": [
+      "gcf-water-security-eastern-caribbean",
+      "eastern-caribbean-wastewater-resilience",
+      "eastern-caribbean-coastal-resilience"
+    ],
+    "image": "/images/case-studies/eastern-caribbean-water-security.svg",
+    "imageAlt": "Climate-resilient water system with storage tanks, watersheds, solar pumps and island communities in the Eastern Caribbean.",
+    "sections": [
+      {
+        "heading": "The climate finance need",
+        "kicker": "Context",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The Eastern Caribbean is increasingly exposed to prolonged droughts, intense rainfall events, saltwater intrusion and aging water infrastructure."
+          },
+          {
+            "type": "paragraph",
+            "text": "Small island water systems face limited surface storage, fragile aquifers, high dependence on rainfall and increasing stress on households, agriculture, tourism and ecosystems."
+          },
+          {
+            "type": "paragraph",
+            "text": "Existing investments remain fragmented, while regional experience such as the Grenada Climate-Resilient Water Sector initiative provides a practical model for scaling."
+          }
+        ]
+      },
+      {
+        "heading": "Proposed response",
+        "kicker": "Investment concept",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The proposal would strengthen regional and national integrated water resources management frameworks, improve water supply reliability, reduce non-revenue water and expand climate-resilient storage."
+          },
+          {
+            "type": "paragraph",
+            "text": "It includes desalination for drought resilience in selected OECS members, renewable energy integration for water systems, and nature-based solutions to protect watersheds, aquifers and coastal ecosystems."
+          },
+          {
+            "type": "paragraph",
+            "text": "The concept is designed as a regional programme with national implementation through OECS coordination, national water utilities, ministries of finance, water, environment and climate change, and development partners."
+          }
+        ]
+      },
+      {
+        "heading": "Components",
+        "kicker": "Systems approach",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Climate-informed integrated water resources management and governance, including a regional water security framework, harmonized policies, water allocation models, data platforms and early warning systems.",
+              "Climate-resilient water supply and distribution, including rehabilitation of aging networks, leak detection, smart metering, community storage tanks, reservoirs, solar-powered pumping and energy efficiency.",
+              "Desalination for drought resilience, including modular reverse-osmosis systems, renewable energy and battery integration, brine management and emergency supply capacity.",
+              "Nature-based solutions for water security, including watershed reforestation, ridge-to-reef management, wetland and mangrove restoration, aquifer recharge zones and community stewardship.",
+              "Project management, monitoring, evaluation, communications and regional knowledge exchange."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Investment readiness",
+        "kicker": "Routing and next steps",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The concept has a clear regional adaptation rationale and a large investment envelope, with potential routing through grants, concessional finance, blended finance and public-private partnerships."
+          },
+          {
+            "type": "paragraph",
+            "text": "Next steps should include validating island-level priorities, confirming the role of water utilities and ministries, refining the financing split between grants and loans, and developing bankable investment packages for storage, distribution, desalination and watershed restoration."
+          },
+          {
+            "type": "paragraph",
+            "text": "The proposal should also clarify affordability, tariff reform, O&M costs, safeguards for desalination and brine management, and links to national adaptation plans and NDCs."
+          }
+        ]
+      },
+      {
+        "heading": "Expected resilience outcomes",
+        "kicker": "Results",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Increased water supply reliability for more than 300,000 people.",
+              "Reduced drought vulnerability across OECS territories.",
+              "Improved ecosystem health in priority watersheds.",
+              "Strengthened regional water governance and climate-informed planning.",
+              "A scalable SIDS model for integrated water security."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Case Study",
+    "title": "Enhancing Climate Resilience through Capacity Building and Technology Transfer in the Eastern Caribbean",
+    "subtitle": "A regional OECS public-good platform for strengthening human capacity, institutions, knowledge exchange and climate-smart technology adoption.",
+    "summary": "A regional capacity and technology-transfer concept for the OECS that addresses persistent gaps in human and institutional capacity, technology adoption, knowledge management, climate finance readiness and coordinated implementation across priority sectors.",
+    "slug": "eastern-caribbean-capacity-technology-transfer",
+    "region": "Eastern Caribbean / OECS",
+    "category": "Capacity building and technology transfer",
+    "calloutText": "This concept addresses the upstream readiness gap: countries cannot absorb climate finance effectively without durable institutions, skilled people, technology pathways and regional learning systems.",
+    "relatedCaseStudies": [
+      "eastern-caribbean-water-security",
+      "eastern-caribbean-sustainable-agriculture",
+      "eastern-caribbean-electric-mobility"
+    ],
+    "image": "/images/case-studies/eastern-caribbean-capacity-technology-transfer.svg",
+    "imageAlt": "Regional climate professionals exchanging knowledge and climate-smart technology across Eastern Caribbean islands.",
+    "sections": [
+      {
+        "heading": "The climate finance need",
+        "kicker": "Context",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "OECS member states face escalating climate risks, including hurricanes, sea-level rise, coastal erosion, drought, flooding, ecosystem degradation and increasing climate variability."
+          },
+          {
+            "type": "paragraph",
+            "text": "Despite national policies, NDCs and adaptation plans, implementation capacity remains uneven due to limited specialized expertise, weak coordination, high staff turnover, reliance on consultants and constrained access to climate finance."
+          },
+          {
+            "type": "paragraph",
+            "text": "Technology adoption is also limited by high upfront costs, fragmented markets, weak regulatory incentives and limited technical capacity for selection, customization, operation and maintenance."
+          }
+        ]
+      },
+      {
+        "heading": "Proposed response",
+        "kicker": "Regional public good",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The programme would establish a multi-year regional framework for human and institutional capacity development, knowledge sharing, technology transfer and island-specific pilot investments."
+          },
+          {
+            "type": "paragraph",
+            "text": "OECS would serve as the lead sponsor and regional coordinating entity, working with partners such as CCCCC, ECCB, CDB, GGGI, IDB, universities and other technical institutions."
+          },
+          {
+            "type": "paragraph",
+            "text": "The concept is designed to reduce duplication, pool expertise, harmonize methods and create regional public goods that support country-level implementation."
+          }
+        ]
+      },
+      {
+        "heading": "Components",
+        "kicker": "Capacity-to-implementation pathway",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Regional human capacity development, including certified training in climate risk assessment, climate-smart agriculture, water management, renewable energy, infrastructure design, MEL and leadership.",
+              "Institutional strengthening and policy harmonization, including climate governance frameworks, public investment mainstreaming, risk screening tools, technology standards, procurement guidance and climate budgeting.",
+              "Technology transfer and climate-smart solutions, including needs assessments, demonstration hubs, shared procurement, public-private partnerships and local maintenance capacity.",
+              "Knowledge management and regional learning platforms, including a regional climate resilience knowledge portal, communities of practice, annual forums and South-South cooperation.",
+              "Island-specific pilot investments and scaling mechanisms linked to national development plans, investment pipelines and blended finance."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Investment readiness",
+        "kicker": "Why this matters for fund access",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The concept is highly relevant as pre-readiness and readiness support because it addresses the institutional bottlenecks that often prevent climate projects from moving from concept to implementation."
+          },
+          {
+            "type": "paragraph",
+            "text": "It should be refined by distinguishing which activities belong under readiness, technical assistance, project preparation, technology transfer or full investment support."
+          },
+          {
+            "type": "paragraph",
+            "text": "Stronger results framing will be needed to show how capacity-building translates into better project origination, improved climate finance absorption, reduced dependence on consultants and sustained institutional capability."
+          }
+        ]
+      },
+      {
+        "heading": "Expected resilience outcomes",
+        "kicker": "Results",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "A trained cohort of regional and national climate professionals.",
+              "Standardized curricula, certification systems and technical assistance rosters.",
+              "Harmonized policies, standards and climate risk screening methods.",
+              "Increased adoption of climate-smart technologies.",
+              "Operational knowledge platforms and stronger cross-island replication."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Case Study",
+    "title": "Building Resilient Agricultural Systems in the Eastern Caribbean",
+    "subtitle": "A climate-smart sustainable agriculture concept to improve food security, support smallholder farmers and strengthen resilient crop, land and water management systems.",
+    "summary": "A regional OECS sustainable agriculture concept focused on climate-smart agriculture, resilient seeds and inputs, sustainable land and water management, strengthened extension systems, youth and women in agribusiness, and improved market integration for smallholder farmers.",
+    "slug": "eastern-caribbean-sustainable-agriculture",
+    "region": "Eastern Caribbean / OECS",
+    "category": "Climate-smart agriculture and food security",
+    "calloutText": "The concept links food security, climate adaptation and rural livelihoods by moving from scattered farmer support toward a regional system for climate-smart agriculture.",
+    "relatedCaseStudies": [
+      "eastern-caribbean-capacity-technology-transfer",
+      "eastern-caribbean-water-security",
+      "eastern-caribbean-coastal-resilience"
+    ],
+    "image": "/images/case-studies/eastern-caribbean-sustainable-agriculture.svg",
+    "imageAlt": "Climate-smart agriculture with resilient crops, drip irrigation and smallholder farmers in the Eastern Caribbean.",
+    "sections": [
+      {
+        "heading": "The climate finance need",
+        "kicker": "Context",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Agriculture remains central to livelihoods, food security and rural economies in the Eastern Caribbean, but the sector is highly exposed to storms, drought, erratic rainfall, land degradation and sea-level rise."
+          },
+          {
+            "type": "paragraph",
+            "text": "Smallholder farmers are particularly vulnerable because they often have limited access to resilient inputs, climate-smart technologies, finance, extension support and market linkages."
+          },
+          {
+            "type": "paragraph",
+            "text": "High food import dependence increases vulnerability to external price shocks and supply disruptions, while climate impacts undermine domestic production and income stability."
+          }
+        ]
+      },
+      {
+        "heading": "Proposed response",
+        "kicker": "Investment concept",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The project would transform agricultural systems through climate-smart agriculture, resilient crop varieties, sustainable land and water management, strengthened institutions and improved value chains."
+          },
+          {
+            "type": "paragraph",
+            "text": "The initiative builds on OECS agricultural priorities and cooperation with IICA, including regional knowledge platforms, seed systems, youth and women engagement, and disaster-responsive agricultural support."
+          },
+          {
+            "type": "paragraph",
+            "text": "It targets Antigua and Barbuda, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines."
+          }
+        ]
+      },
+      {
+        "heading": "Components",
+        "kicker": "Farm-to-market resilience",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Scaling climate-smart agricultural practices through demonstration farms, CSA hubs, flagship youth-led mega farms, smart irrigation, climate sensors, greenhouse and open-field systems, digital farm platforms and farmer field schools.",
+              "Expanding access to resilient crops and inputs through community seed banks, seed quality assurance, crop variety trials, resilient seed distribution and diversified cropping and livestock systems.",
+              "Strengthening institutional and extension capacities through assessments, reform plans, professional development for extension agents, digital advisory tools and participatory facilitation.",
+              "Engaging youth and women through leadership, business skills, agripreneurship and innovation programmes.",
+              "Improving market access and value chains through value-chain mapping, producer group support, post-harvest training, processing, microfinance and investment platforms."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Investment readiness",
+        "kicker": "Routing and next steps",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The concept has a strong adaptation and food-security rationale, but should be sharpened into country-specific investment packages with clear farmer targets, crop priorities, water requirements and extension delivery models."
+          },
+          {
+            "type": "paragraph",
+            "text": "Next steps include validating demand with ministries of agriculture and farmer organizations, identifying suitable implementing partners, costing CSA hubs and seed systems, and clarifying finance routes for grants, concessional support and private agribusiness participation."
+          },
+          {
+            "type": "paragraph",
+            "text": "The concept should also specify how climate advisories, extension systems and market linkages will be sustained after project closure."
+          }
+        ]
+      },
+      {
+        "heading": "Expected resilience outcomes",
+        "kicker": "Results",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Increased adoption of climate-smart agricultural practices.",
+              "Improved access to climate-resilient seeds and inputs.",
+              "Stronger extension services and farmer advisory systems.",
+              "Enhanced food and nutrition security.",
+              "Greater participation of youth and women in agricultural innovation and markets."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Case Study",
+    "title": "Accelerating Sustainable Electric Mobility in the Eastern Caribbean",
+    "subtitle": "A regional e-mobility concept to accelerate EV uptake, charging infrastructure, policy harmonization, financing mechanisms and public-private investment.",
+    "summary": "A regional Eastern Caribbean e-mobility concept focused on reducing fossil-fuel dependence in transport through EV charging infrastructure, enabling policy frameworks, incentives and finance mechanisms, technical capacity building, public awareness and pilot fleets.",
+    "slug": "eastern-caribbean-electric-mobility",
+    "region": "Eastern Caribbean / OECS",
+    "category": "Sustainable transport and e-mobility",
+    "calloutText": "The concept reframes transport electrification as both a mitigation opportunity and an economic resilience measure for fuel-import-dependent island economies.",
+    "relatedCaseStudies": [
+      "eastern-caribbean-capacity-technology-transfer",
+      "eastern-caribbean-water-security",
+      "gcf-coastal-cities-eastern-caribbean"
+    ],
+    "image": "/images/case-studies/eastern-caribbean-electric-mobility.svg",
+    "imageAlt": "Electric buses and charging infrastructure supporting sustainable transport in Eastern Caribbean island communities.",
+    "sections": [
+      {
+        "heading": "The climate finance need",
+        "kicker": "Context",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Eastern Caribbean countries remain heavily dependent on imported petroleum products, while transport accounts for a large share of national energy use."
+          },
+          {
+            "type": "paragraph",
+            "text": "EV uptake remains slow because of high upfront costs, limited charging infrastructure, regulatory gaps, financing constraints, grid-management concerns and limited awareness of total cost of ownership."
+          },
+          {
+            "type": "paragraph",
+            "text": "NDCs and regional energy strategies identify transport electrification as a priority, but implementation remains behind the ambition."
+          }
+        ]
+      },
+      {
+        "heading": "Proposed response",
+        "kicker": "Investment concept",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The programme would accelerate sustainable electric mobility across public and private sectors through charging infrastructure, policy and regulatory support, incentives, concessional financing, public-private partnerships and pilot fleets."
+          },
+          {
+            "type": "paragraph",
+            "text": "It would establish Level 2 AC and DC fast-charging networks, support public procurement of EVs, enable government and taxi fleet pilots, and build institutional and technical capacity for long-term operations."
+          },
+          {
+            "type": "paragraph",
+            "text": "The concept draws on regional and international mechanisms including GEF-7 EV, NDC-TEC, GIZ technical cooperation and development bank studies."
+          }
+        ]
+      },
+      {
+        "heading": "Components",
+        "kicker": "Market transformation package",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "E-mobility infrastructure deployment, including siting analysis, procurement, installation, interoperability, grid integration and operations and maintenance frameworks.",
+              "Enabling policy, standards and regulation, including policy audits, national EV strategies, charging standards, tariff adjustments, public procurement guidance and regional harmonization.",
+              "Incentives and finance mechanisms, including duty waivers, EV purchase subsidies, credit guarantees, leasing products, public fleet financing and performance-based grants.",
+              "Capacity building and technical assistance for government, utilities, regulators, EV technicians and service providers.",
+              "Public awareness, demonstration projects and MRV systems to track EV registrations, charger use, grid impacts, emissions reductions and financial flows."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Investment readiness",
+        "kicker": "Routing and next steps",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The concept has a clear mitigation and energy-security rationale, with an estimated regional budget of about USD 33 million and potential for grant, concessional and private finance."
+          },
+          {
+            "type": "paragraph",
+            "text": "Next steps include validating charging-site economics, assessing grid readiness, confirming fiscal incentive options, designing risk-sharing instruments and identifying the most suitable fund or MDB route."
+          },
+          {
+            "type": "paragraph",
+            "text": "The proposal should carefully distinguish mitigation benefits from resilience co-benefits and show how charging networks, finance products and training systems remain viable after grant support."
+          }
+        ]
+      },
+      {
+        "heading": "Expected resilience outcomes",
+        "kicker": "Results",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Increased EV adoption and charging infrastructure across OECS territories.",
+              "Reduced petroleum import dependence and fuel expenditure.",
+              "Lower transport emissions and local air pollution.",
+              "New green jobs and EV technical service capacity.",
+              "Private investment mobilized through leasing, finance and PPP models."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Case Study",
+    "title": "GCF Concept Note: Climate Resilience in Coastal Cities",
+    "subtitle": "A Green Climate Fund concept note for a regional nature-based solutions programme for coastal cities and settlements in the Eastern Caribbean.",
+    "summary": "A GCF-oriented concept note for a USD 50 million regional coastal resilience programme using nature-based solutions, resilient infrastructure, institutional strengthening, climate information services and blended finance to protect vulnerable Eastern Caribbean coastal settlements.",
+    "slug": "gcf-coastal-cities-eastern-caribbean",
+    "region": "Eastern Caribbean / OECS",
+    "category": "GCF concept note and coastal adaptation",
+    "calloutText": "This case study shows how a broader coastal-resilience idea can be translated into a fund-facing GCF concept note with components, financing and paradigm-shift logic.",
+    "relatedCaseStudies": [
+      "eastern-caribbean-coastal-resilience",
+      "eastern-caribbean-water-security",
+      "gcf-water-security-eastern-caribbean"
+    ],
+    "image": "/images/case-studies/gcf-coastal-cities-eastern-caribbean.svg",
+    "imageAlt": "GCF coastal cities programme combining mangrove restoration, resilient infrastructure and climate information services.",
+    "sections": [
+      {
+        "heading": "The climate finance need",
+        "kicker": "Context",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Eastern Caribbean coastal cities and settlements are exposed to sea-level rise, stronger hurricanes, coastal flooding, erosion, saltwater intrusion, coral reef degradation and biodiversity loss."
+          },
+          {
+            "type": "paragraph",
+            "text": "Baseline challenges include fragmented adaptation interventions, limited integration of ecosystem-based approaches, outdated infrastructure and building standards, weak technical capacity and insufficient access to climate finance."
+          },
+          {
+            "type": "paragraph",
+            "text": "Without intervention, escalating climate risks threaten economic stability, food security, livelihoods, tourism, fisheries and infrastructure."
+          }
+        ]
+      },
+      {
+        "heading": "Proposed response",
+        "kicker": "GCF concept",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The GCF concept note proposes a regional nature-based solutions programme for Antigua and Barbuda, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines."
+          },
+          {
+            "type": "paragraph",
+            "text": "The programme combines NbS, resilient infrastructure and institutional strengthening under OECS execution, with an accredited entity to be confirmed."
+          },
+          {
+            "type": "paragraph",
+            "text": "The proposed project size is USD 50 million, including an indicative USD 44 million GCF grant and USD 6 million in concessional loans and public financing."
+          }
+        ]
+      },
+      {
+        "heading": "Components",
+        "kicker": "GCF package",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Nature-based solutions, including mangrove restoration, coral reef rehabilitation, beach restoration, shoreline stabilization, wetland rehabilitation and watershed rehabilitation.",
+              "Climate-resilient infrastructure, focused on Saint Lucia and Dominica, including retrofitting 2,000 vulnerable homes, climate-proofing public buildings and scaling the Disaster and Climate Adaptation Financing Framework.",
+              "Capacity building and institutional strengthening, including Technical Assistance Centres, certification of construction professionals and enforcement of climate-resilient building codes.",
+              "Climate information services and governance, including climate data systems, public awareness and integration of climate risk into planning frameworks."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Investment readiness",
+        "kicker": "Fund-facing logic",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The concept has a clear adaptation focus and a strong GCF fit across vulnerable populations, ecosystems, infrastructure and climate information."
+          },
+          {
+            "type": "paragraph",
+            "text": "The paradigm shift is framed as moving from reactive disaster response to proactive resilience building, from grey infrastructure to ecosystem-based adaptation, and from fragmented projects to integrated regional systems."
+          },
+          {
+            "type": "paragraph",
+            "text": "Next steps include confirming the accredited entity, sharpening the climate rationale, quantifying ecosystem restoration targets, validating beneficiary numbers, refining co-finance and strengthening safeguards and implementation arrangements."
+          }
+        ]
+      },
+      {
+        "heading": "Expected resilience outcomes",
+        "kicker": "Results",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Increased resilience of vulnerable populations and ecosystems.",
+              "Restored coastal ecosystems and reduced flood and storm-surge risks.",
+              "Climate-resilient infrastructure developed and retrofitted.",
+              "Increased institutional capacity for climate adaptation.",
+              "Approximately 600,000 direct beneficiaries."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Case Study",
+    "title": "GCF Concept Note: Building Climate-Resilient Water Systems in the Eastern Caribbean",
+    "subtitle": "A Green Climate Fund concept note to scale integrated water resources management, resilient water infrastructure, desalination and ecosystem-based adaptation across OECS countries.",
+    "summary": "A GCF-oriented water-security concept note for a USD 146 million regional programme, including indicative GCF financing of USD 90 million and co-financing of USD 56 million, focused on climate-resilient water systems, drought resilience and ecosystem-based adaptation.",
+    "slug": "gcf-water-security-eastern-caribbean",
+    "region": "Eastern Caribbean / OECS",
+    "category": "GCF concept note and water security",
+    "calloutText": "This case study presents the water-security pipeline in a GCF results-area format, linking water security, infrastructure, ecosystems and adaptation finance.",
+    "relatedCaseStudies": [
+      "eastern-caribbean-water-security",
+      "gcf-coastal-cities-eastern-caribbean",
+      "eastern-caribbean-wastewater-resilience"
+    ],
+    "image": "/images/case-studies/gcf-water-security-eastern-caribbean.svg",
+    "imageAlt": "GCF water security programme with desalination, water storage, watershed restoration and resilient island infrastructure.",
+    "sections": [
+      {
+        "heading": "The climate finance need",
+        "kicker": "Context",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Eastern Caribbean water security is threatened by prolonged droughts, changing rainfall patterns, saltwater intrusion, limited storage, aging infrastructure and high non-revenue water."
+          },
+          {
+            "type": "paragraph",
+            "text": "SIDS in the region depend heavily on rainfall and fragile groundwater systems, making them highly exposed to climate shocks."
+          },
+          {
+            "type": "paragraph",
+            "text": "Existing investments are fragmented, and successful models such as G-CREWS need to be scaled regionally."
+          }
+        ]
+      },
+      {
+        "heading": "Proposed response",
+        "kicker": "GCF concept",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The proposed GCF concept seeks to enhance climate resilience and water security through integrated water resources management, climate-resilient infrastructure and ecosystem-based adaptation."
+          },
+          {
+            "type": "paragraph",
+            "text": "The project covers Antigua and Barbuda, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines, with OECS as executing entity."
+          },
+          {
+            "type": "paragraph",
+            "text": "The indicative project cost is USD 146 million, with USD 90 million requested from GCF and USD 56 million in co-financing."
+          }
+        ]
+      },
+      {
+        "heading": "Components",
+        "kicker": "GCF investment package",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Climate-informed IWRM and governance, including a regional water security framework, harmonized policies, water allocation models, early warning systems and data platforms.",
+              "Climate-resilient water supply systems, including rehabilitation of distribution networks, non-revenue water reduction, expanded storage, solar-powered pumping and efficiency upgrades.",
+              "Desalination for climate resilience, including renewable energy-powered plants, brine management and emergency drought supply capacity in Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines.",
+              "Nature-based solutions, including watershed restoration, wetland and mangrove rehabilitation, aquifer recharge protection and community ecosystem stewardship.",
+              "Project management, monitoring, evaluation, learning, regional coordination and knowledge exchange."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Investment readiness",
+        "kicker": "Fund-facing logic",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The concept fits GCF result areas for health, food and water security, infrastructure and built environment, and ecosystems and ecosystem services."
+          },
+          {
+            "type": "paragraph",
+            "text": "The theory of change is straightforward: resilient water infrastructure, stronger governance and restored ecosystems should improve water availability, reduce drought vulnerability and strengthen adaptive capacity."
+          },
+          {
+            "type": "paragraph",
+            "text": "Next steps include confirming the accredited entity, refining the grant/loan/PPP mix, validating desalination safeguards, modelling affordability and demonstrating that ecosystem restoration and infrastructure investments are mutually reinforcing."
+          }
+        ]
+      },
+      {
+        "heading": "Expected resilience outcomes",
+        "kicker": "Results",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "More than 300,000 direct beneficiaries and 600,000 indirect beneficiaries.",
+              "High reliability of water supply compared with a low-reliability baseline.",
+              "Significant reduction in drought vulnerability.",
+              "A scalable regional model for SIDS water management.",
+              "Integration of infrastructure, ecosystems and governance in one programme."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Case Study",
+    "title": "GEF Project: Strengthening Resilience in Waste and Wastewater Management in the Eastern Caribbean",
+    "subtitle": "A Global Environment Facility project concept to reduce land-based pollution, improve wastewater infrastructure and advance circular economy solutions across OECS countries.",
+    "summary": "A GEF-oriented waste and wastewater concept for a USD 25 million full-sized project focused on climate-resilient wastewater infrastructure, plastic waste reduction, circular economy systems, policy strengthening, biodiversity protection and regional coordination.",
+    "slug": "gef-wastewater-management-eastern-caribbean",
+    "region": "Eastern Caribbean / OECS",
+    "category": "GEF concept note, wastewater and circular economy",
+    "calloutText": "This case study shows how the waste and wastewater pipeline can be framed for GEF through international waters, biodiversity, climate adaptation and circular economy benefits.",
+    "relatedCaseStudies": [
+      "eastern-caribbean-wastewater-resilience",
+      "gcf-water-security-eastern-caribbean",
+      "eastern-caribbean-coastal-resilience"
+    ],
+    "image": "/images/case-studies/gef-wastewater-management-eastern-caribbean.svg",
+    "imageAlt": "GEF waste and wastewater management project reducing marine pollution and supporting circular economy systems.",
+    "sections": [
+      {
+        "heading": "The climate finance need",
+        "kicker": "Context",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Inadequate wastewater treatment and plastic waste management are contributing to marine ecosystem degradation, biodiversity loss, freshwater contamination and increased emissions from unmanaged waste."
+          },
+          {
+            "type": "paragraph",
+            "text": "Climate change intensifies these risks through flooding, storm surges and sea-level rise, further compromising fragile island ecosystems."
+          },
+          {
+            "type": "paragraph",
+            "text": "The project addresses the need for regional solutions that reduce nutrient and pollutant loads entering international waters while protecting coral reefs, fisheries and coastal ecosystems."
+          }
+        ]
+      },
+      {
+        "heading": "Proposed response",
+        "kicker": "GEF concept",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The concept proposes a GEF full-sized project to enhance climate resilience and reduce environmental pollution in the OECS by transforming waste and wastewater management systems."
+          },
+          {
+            "type": "paragraph",
+            "text": "The project would combine infrastructure investment, circular economy solutions and institutional strengthening."
+          },
+          {
+            "type": "paragraph",
+            "text": "The indicative total project cost is USD 25 million, including USD 20 million in GEF financing and USD 5 million in co-financing from governments, partners and the private sector."
+          }
+        ]
+      },
+      {
+        "heading": "Components",
+        "kicker": "GEF investment package",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Climate-resilient wastewater infrastructure, including upgraded and expanded wastewater treatment facilities, decentralized and nature-based solutions, and climate-proofing against extreme weather.",
+              "Plastic waste reduction and circular economy systems, including plastic recycling plants, collection and segregation systems, and reuse and recycling markets.",
+              "Policy, institutional strengthening and capacity building, including wastewater master plans, regulatory frameworks, training and technical assistance.",
+              "Knowledge management, including regional knowledge-sharing platforms, documentation of best practices and replication across SIDS."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Investment readiness",
+        "kicker": "Fund-facing logic",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The concept fits GEF priorities across International Waters, Biodiversity and Climate Change Adaptation."
+          },
+          {
+            "type": "paragraph",
+            "text": "The incremental reasoning is that, without GEF support, investments remain fragmented and insufficient, while GEF support enables regional integration, innovative technologies, stronger policy frameworks and measurable global environmental benefits."
+          },
+          {
+            "type": "paragraph",
+            "text": "Next steps include preparing the full logframe, detailed budget, stakeholder engagement plan, safeguards plan, economic and financial analysis, and clear pollutant-reduction baselines."
+          }
+        ]
+      },
+      {
+        "heading": "Expected resilience outcomes",
+        "kicker": "Results",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "100% reduction in wastewater pollution entering marine environments by 2030.",
+              "80% reduction in plastic waste leakage.",
+              "Six or more upgraded wastewater facilities.",
+              "Approximately 600,000 beneficiaries.",
+              "Reduced marine and freshwater pollution, improved biodiversity outcomes, and enhanced public health and livelihoods."
             ]
           }
         ]

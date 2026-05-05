@@ -1,0 +1,17 @@
+<svg width="960" height="540" viewBox="0 0 960 540" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Capacity building and technology transfer</title>
+  <desc id="desc">Regional climate professionals exchanging knowledge with maps, dashboards and climate-smart technology symbols.</desc>
+  <rect width="960" height="540" fill="#ECEDE7"/>
+  <rect x="198" y="132" width="564" height="248" rx="16" fill="#FFF8EA" stroke="#173F35" stroke-width="8"/>
+  <rect x="236" y="170" width="226" height="150" rx="8" fill="#DCEEEB" stroke="#173F35" stroke-width="6"/>
+  <path d="M270 270C316 228 354 232 392 188C420 154 444 172 462 150" stroke="#2F7A64" stroke-width="8" stroke-linecap="round"/>
+  <rect x="506" y="170" width="206" height="34" rx="6" fill="#D7A84F"/>
+  <rect x="506" y="228" width="156" height="28" rx="6" fill="#7DB6B1"/>
+  <rect x="506" y="280" width="184" height="28" rx="6" fill="#C76545"/>
+  <circle cx="286" cy="408" r="28" fill="#173F35"/>
+  <circle cx="480" cy="408" r="28" fill="#173F35"/>
+  <circle cx="674" cy="408" r="28" fill="#173F35"/>
+  <path d="M314 408H452M508 408H646" stroke="#173F35" stroke-width="8" stroke-linecap="round"/>
+  <path d="M276 458C306 436 352 436 382 458M470 458C500 436 546 436 576 458M664 458C694 436 740 436 770 458" stroke="#173F35" stroke-width="8" stroke-linecap="round"/>
+  <path d="M174 310L134 350M786 170L826 130" stroke="#D7A84F" stroke-width="10" stroke-linecap="round"/>
+</svg>

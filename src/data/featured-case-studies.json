@@ -6,8 +6,8 @@
     "slug": "maldives-safe-havens-schools",
     "region": "Maldives / Indian Ocean SIDS",
     "category": "Climate-resilient education infrastructure",
-    "image": "/images/case-studies/maldives-safe-havens.svg",
-    "imageAlt": "Illustration of a climate-resilient school serving as a community safe haven in the Maldives."
+    "image": "/images/case-studies/maldives-safe-havens-schools.svg",
+    "imageAlt": "Climate-resilient school in the Maldives with solar panels, water storage, palm trees and a surrounding island community."
   },
   {
     "label": "Case Study",
@@ -17,7 +17,7 @@
     "region": "Eastern Caribbean / OECS",
     "category": "Coastal resilience and nature-based solutions",
     "image": "/images/case-studies/eastern-caribbean-coastal-resilience.svg",
-    "imageAlt": "Illustration of Eastern Caribbean coastal resilience using mangroves, reefs and resilient urban infrastructure."
+    "imageAlt": "Eastern Caribbean coastal settlement protected by mangroves, coral reefs and restored beaches."
   },
   {
     "label": "Case Study",
@@ -27,6 +27,76 @@
     "region": "Eastern Caribbean / OECS",
     "category": "Wastewater resilience and circular economy",
     "image": "/images/case-studies/eastern-caribbean-wastewater-resilience.svg",
-    "imageAlt": "Illustration of resilient wastewater systems and circular economy solutions in Eastern Caribbean island communities."
+    "imageAlt": "Resilient wastewater treatment and plastic recycling system protecting Eastern Caribbean coastal waters."
+  },
+  {
+    "label": "Case Study",
+    "title": "Building Climate-Resilient Water Systems in the Eastern Caribbean",
+    "summary": "A regional OECS concept to strengthen water security through resilient infrastructure, drought preparedness, integrated governance and nature-based watershed protection.",
+    "slug": "eastern-caribbean-water-security",
+    "region": "Eastern Caribbean / OECS",
+    "category": "Water security and climate-resilient infrastructure",
+    "image": "/images/case-studies/eastern-caribbean-water-security.svg",
+    "imageAlt": "Climate-resilient water system with storage tanks, watersheds, solar pumps and island communities in the Eastern Caribbean."
+  },
+  {
+    "label": "Case Study",
+    "title": "Enhancing Climate Resilience through Capacity Building and Technology Transfer in the Eastern Caribbean",
+    "summary": "A regional OECS public-good platform to strengthen institutions, skilled professionals, technology pathways and climate finance readiness across priority sectors.",
+    "slug": "eastern-caribbean-capacity-technology-transfer",
+    "region": "Eastern Caribbean / OECS",
+    "category": "Capacity building and technology transfer",
+    "image": "/images/case-studies/eastern-caribbean-capacity-technology-transfer.svg",
+    "imageAlt": "Regional climate professionals exchanging knowledge and climate-smart technology across Eastern Caribbean islands."
+  },
+  {
+    "label": "Case Study",
+    "title": "Building Resilient Agricultural Systems in the Eastern Caribbean",
+    "summary": "A climate-smart agriculture concept to improve food security, resilient inputs, extension systems, market access and smallholder farmer livelihoods.",
+    "slug": "eastern-caribbean-sustainable-agriculture",
+    "region": "Eastern Caribbean / OECS",
+    "category": "Climate-smart agriculture and food security",
+    "image": "/images/case-studies/eastern-caribbean-sustainable-agriculture.svg",
+    "imageAlt": "Climate-smart agriculture with resilient crops, drip irrigation and smallholder farmers in the Eastern Caribbean."
+  },
+  {
+    "label": "Case Study",
+    "title": "Accelerating Sustainable Electric Mobility in the Eastern Caribbean",
+    "summary": "A regional e-mobility concept to accelerate EV uptake, charging infrastructure, policy harmonization, financing mechanisms and public-private investment.",
+    "slug": "eastern-caribbean-electric-mobility",
+    "region": "Eastern Caribbean / OECS",
+    "category": "Sustainable transport and e-mobility",
+    "image": "/images/case-studies/eastern-caribbean-electric-mobility.svg",
+    "imageAlt": "Electric buses and charging infrastructure supporting sustainable transport in Eastern Caribbean island communities."
+  },
+  {
+    "label": "Case Study",
+    "title": "GCF Concept Note: Climate Resilience in Coastal Cities",
+    "summary": "A GCF-oriented regional coastal resilience concept using nature-based solutions, resilient infrastructure, climate information services and blended finance.",
+    "slug": "gcf-coastal-cities-eastern-caribbean",
+    "region": "Eastern Caribbean / OECS",
+    "category": "GCF concept note and coastal adaptation",
+    "image": "/images/case-studies/gcf-coastal-cities-eastern-caribbean.svg",
+    "imageAlt": "GCF coastal cities programme combining mangrove restoration, resilient infrastructure and climate information services."
+  },
+  {
+    "label": "Case Study",
+    "title": "GCF Concept Note: Building Climate-Resilient Water Systems in the Eastern Caribbean",
+    "summary": "A GCF-oriented regional water-security concept focused on resilient water systems, drought preparedness, desalination and ecosystem-based adaptation.",
+    "slug": "gcf-water-security-eastern-caribbean",
+    "region": "Eastern Caribbean / OECS",
+    "category": "GCF concept note and water security",
+    "image": "/images/case-studies/gcf-water-security-eastern-caribbean.svg",
+    "imageAlt": "GCF water security programme with desalination, water storage, watershed restoration and resilient island infrastructure."
+  },
+  {
+    "label": "Case Study",
+    "title": "GEF Project: Strengthening Resilience in Waste and Wastewater Management in the Eastern Caribbean",
+    "summary": "A GEF-oriented waste and wastewater concept to reduce land-based pollution, upgrade infrastructure and advance circular economy solutions.",
+    "slug": "gef-wastewater-management-eastern-caribbean",
+    "region": "Eastern Caribbean / OECS",
+    "category": "GEF concept note, wastewater and circular economy",
+    "image": "/images/case-studies/gef-wastewater-management-eastern-caribbean.svg",
+    "imageAlt": "GEF waste and wastewater management project reducing marine pollution and supporting circular economy systems."
   }
 ]

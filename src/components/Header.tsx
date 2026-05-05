@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom";
-import logo from "../assets/logo-placeholder.svg";
+import logo from "../assets/unfccc-lwm-ccs-1c-b-7.5.jpg";
 
 const navItems = [
   { label: "Case Studies", href: "/case-studies" },
